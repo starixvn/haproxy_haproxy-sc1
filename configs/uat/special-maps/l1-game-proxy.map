@@ -27,6 +27,7 @@
 /uat/kenopower/ l1_keno_power_nodes_UAT
 /uat/casinoholdempoker/ l1_casino_holdem_poker_nodes_UAT
 /uat/bitcoinmaster/ l1_bitcoin_master_nodes_UAT
+/uat/hilo/ l1_hilo_nodes_UAT
 /sit/main/  l1_game_server_nodes_SIT
 /sit/sedie/ l1_sedie_nodes_SIT
 /sit/vsedie/ l1_vip_sedie_nodes_SIT
@@ -56,3 +57,4 @@
 /sit/kenopower/ l1_keno_power_nodes_SIT
 /sit/casinoholdempoker/ l1_casino_holdem_poker_nodes_SIT
 /sit/bitcoinmaster/ l1_bitcoin_master_nodes_SIT
+/sit/hilo/ l1_hilo_nodes_SIT
