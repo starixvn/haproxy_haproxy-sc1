@@ -34,7 +34,7 @@ l1-m2.lumigame.com l1_game_client_mobi_nodes_2
 l1-games2.lumigame.com l1_game_client_nodes_2
 l1-api2.lumigame.com l1_api_nodes_2
 l1-auth2.lumigame.com l1_auth_api_nodes_2
-#l1-admin2.lumigame.com l1_game_admin_site_nodes_2
+l1-admin2.lumigame.com l1_game_admin_site_nodes_2
 l1-admin-api2.lumigame.com l1_game_admin_api_nodes_2
 l1-glbs2.lumigame.com l1_gamelobby_simulator_nodes_2
 l1-ows2.lumigame.com l1_owapi_simulator_nodes_2
