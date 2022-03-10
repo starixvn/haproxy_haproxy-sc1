@@ -6,7 +6,7 @@ l1-m.lumigame.com l1_game_client_mobi_nodes
 games.lumigame.com l1_game_client_nodes
 api.lumigame.com l1_api_nodes
 auth.lumigame.com l1_auth_api_nodes
-#admin.lumigame.com l1_game_admin_site_nodes
+admin.lumigame.com l1_game_admin_site_nodes
 admin-api.lumigame.com l1_game_admin_api_nodes
 gamelobby-simulator.lumigame.com l1_gamelobby_simulator_nodes
 owapi-simulator.lumigame.com l1_owapi_simulator_nodes
@@ -20,7 +20,7 @@ l1-m1.lumigame.com l1_game_client_mobi_nodes_1
 l1-games1.lumigame.com l1_game_client_nodes_1
 l1-api1.lumigame.com l1_api_nodes_1
 l1-auth1.lumigame.com l1_auth_api_nodes_1
-#l1-admin1.lumigame.com l1_game_admin_site_nodes_1
+l1-admin1.lumigame.com l1_game_admin_site_nodes_1
 l1-admin-api1.lumigame.com l1_game_admin_api_nodes_1
 l1-glbs1.lumigame.com l1_gamelobby_simulator_nodes_1
 l1-ows1.lumigame.com l1_owapi_simulator_nodes_1
