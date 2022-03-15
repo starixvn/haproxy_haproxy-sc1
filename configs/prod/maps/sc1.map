@@ -1,12 +1,12 @@
 #L1 Internal
-intresult.sabagame.com l1_game_round_result_nodes
-intapi.sabagame.com l1_api_nodes
+intresult.sabagame.com l1_game_round_result_PROD_be
+intapi.sabagame.com l1_game_api_nodes_be
 
 #L1
-mini.sabagame.com l1_instant_game_client_nodes_PROD
-guides.gamesaba.com l1_game_guides_nodes
-guides.sabagame.com l1_game_guides_nodes
-m.gamesaba.com l1_game_client_mobi_nodes
-m.sabagame.com l1_game_client_mobi_nodes
-gw.gamesaba.com l1_socket_gateway_nodes_prod
-gw.sabagame.com l1_socket_gateway_nodes_prod
+mini.sabagame.com l1_instant_game_client_nodes_PROD_be
+guides.gamesaba.com l1_game_guides_PROD_be
+guides.sabagame.com l1_game_guides_PROD_be
+m.gamesaba.com l1_game_client_mobi_PROD_be
+m.sabagame.com l1_game_client_mobi_PROD_be
+gw.gamesaba.com l1_socket_gateway_PROD_be
+gw.sabagame.com l1_socket_gateway_PROD_be
