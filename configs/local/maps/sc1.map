@@ -41,3 +41,11 @@ l1-ows2.lumigame.com l1_owapi_simulator_nodes_2
 l1-result2.lumigame.com l1_game_result_nodes_2
 l1-gw2.lumigame.com l1_socket_gateway_nodes_2
 l1-guide-2.lumigame.com l1_guide_nodes_2
+
+#L1 LOCAL3
+l1-admin3.lumigame.com l1_admin_site_LOCAL_3_be
+l1-api3.lumigame.com l1_game_api_LOCAL_3_be
+l1-games3.lumigame.com l1_game_client_LOCAL_3_be
+l1-glbs3.lumigame.com l1_game_lobby_simulator_LOCAL_3_be
+l1-ows3.lumigame.com l1_ow_api_simulator_LOCAL_3_be
+l1-gw3.lumigame.com l1_socket_gateway_LOCAL_3_be
