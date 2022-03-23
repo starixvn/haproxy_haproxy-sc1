@@ -40,6 +40,7 @@ l1-ows2.lumigame.com l1_ow_api_simulator_LOCAL_2_be
 l1-result2.lumigame.com l1_game_result_LOCAL_2_be
 l1-gw2.lumigame.com l1_socket_gateway_LOCAL_2_be
 l1-guide-2.lumigame.com l1_game_guides_LOCAL_2_be
+l1-mini2.lumigame.com l1_instant_game_client_LOCAL_2_be
 
 #L1 LOCAL3
 l1-m3.lumigame.com l1_game_client_mobi_LOCAL_3_be
