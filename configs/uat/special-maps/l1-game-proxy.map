@@ -1,4 +1,5 @@
 ###UAT
+/uat/ l1_game_server_UAT_be
 /uat/main/ l1_game_server_UAT_be
 /uat/sedie/ l1_sedie_service_UAT_be
 /uat/vsedie/ l1_vip_sedie_service_UAT_be
@@ -33,6 +34,7 @@
 /uat/monitoring/ l1_mini_keno_service_UAT_be
 
 ###SIT
+/sit/ l1_game_server_SIT_be
 /sit/main/ l1_game_server_SIT_be
 /sit/sedie/ l1_sedie_service_SIT_be
 /sit/vsedie/ l1_vip_sedie_service_SIT_be
