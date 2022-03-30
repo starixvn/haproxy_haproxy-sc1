@@ -33,6 +33,7 @@
 /uat/treasureisland/ l1_treasure_island_service_UAT_be
 /uat/monitoring/ l1_admin_monitoring_site_UAT_be
 /uat/nightclub/ l1_night_club_service_UAT_be
+/uat/texasholdempoker/ l1_texas_holdem_poker_service_UAT_be
 
 ###SIT
 /sit/ l1_game_server_SIT_be
@@ -69,3 +70,4 @@
 /sit/treasureisland/ l1_treasure_island_service_SIT_be
 /sit/monitoring/ l1_admin_monitoring_site_SIT_be
 /sit/nightclub/ l1_night_club_service_SIT_be
+/sit/texasholdempoker/ l1_texas_holdem_poker_service_SIT_be
