@@ -7,6 +7,7 @@ RUN ssh-keyscan -t rsa git3.nexdev.net >> /root/.ssh/known_hosts
 RUN ls -l /root/.ssh/
 RUN cat /root/.ssh/id_rsa
 RUN cd /srv/ && git clone git@git3.nexdev.net:haproxy/haproxy-default.git
+RUN cd /srv/haproxy-default && git fetch
 RUN ls -l /srv/
 #############
 COPY configs/$ENV /usr/local/etc/haproxy/configs/$ENV
