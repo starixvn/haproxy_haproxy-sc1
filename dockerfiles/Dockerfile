@@ -8,14 +8,15 @@ RUN ls -l /root/.ssh/
 RUN cat /root/.ssh/id_rsa
 RUN ls -l /srv/
 RUN cd /srv/ && git clone git@git3.nexdev.net:haproxy/haproxy-default.git
+RUN cd /srv/ && git clone git@git3.nexdev.net:haproxy/haproxy-vg2.git
 #RUN cd /srv/haproxy-default && git fetch
 #############
 COPY configs/$ENV /usr/local/etc/haproxy/configs/$ENV
 RUN ls -l /srv/haproxy-default/configs
 RUN ls -l /srv/haproxy-default/configs/$ENV/
-RUN cp /srv/haproxy-default/configs/$ENV/00-global-defaults.cfg /usr/local/etc/haproxy/configs/$ENV/
+RUN cp /srv/haproxy-default/configs/$ENV/*.cfg /usr/local/etc/haproxy/configs/$ENV/
+RUN cp /srv/haproxy-vg2/configs/$ENV/*.cfg /usr/local/etc/haproxy/configs/$ENV/
 RUN ls /usr/local/etc/haproxy/configs/$ENV
-RUN cat /usr/local/etc/haproxy/configs/$ENV/00-global-defaults.cfg
 RUN cat /usr/local/etc/haproxy/configs/$ENV/*.cfg > /usr/local/etc/haproxy/configs/$ENV/haproxy.cfg.tmp
 RUN cp /usr/local/etc/haproxy/configs/$ENV/haproxy.cfg.tmp /usr/local/etc/haproxy/haproxy.cfg
 RUN cp /srv/haproxy-default/whitelisted.ips /etc/haproxy/whitelisted.ips
