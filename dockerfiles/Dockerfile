@@ -16,6 +16,7 @@ RUN ls -l /srv/haproxy-default/configs
 RUN ls -l /srv/haproxy-default/configs/$ENV/
 RUN cp /srv/haproxy-default/configs/$ENV/*.cfg /usr/local/etc/haproxy/configs/$ENV/
 RUN cp /srv/haproxy-vg2/configs/$ENV/*.cfg /usr/local/etc/haproxy/configs/$ENV/
+RUN cp /srv/haproxy-vg2/configs/$ENV/maps/*.map /usr/local/etc/haproxy/configs/$ENV/maps/
 RUN ls /usr/local/etc/haproxy/configs/$ENV
 RUN cat /usr/local/etc/haproxy/configs/$ENV/*.cfg > /usr/local/etc/haproxy/configs/$ENV/haproxy.cfg.tmp
 RUN cp /usr/local/etc/haproxy/configs/$ENV/haproxy.cfg.tmp /usr/local/etc/haproxy/haproxy.cfg
@@ -24,6 +25,7 @@ RUN cp /srv/haproxy-default/certs/lumigame.com.pem /etc/haproxy/lumigame.com.pem
 RUN mkdir /usr/local/etc/haproxy/maps
 RUN cat /usr/local/etc/haproxy/configs/$ENV/maps/*.map > /usr/local/etc/haproxy/maps/hosts.map
 RUN if [ -e /usr/local/etc/haproxy/configs/$ENV/special-maps ] ; then cp /usr/local/etc/haproxy/configs/$ENV/special-maps/* /usr/local/etc/haproxy/maps/ ; fi ;
+RUN if [ -e /srv/haproxy-vg2/configs/$ENV/special-maps ] ; then cp /srv/haproxy-vg2/configs/$ENV/special-maps/* /usr/local/etc/haproxy/maps/ ; fi ;
 RUN ls -l /usr/local/etc/haproxy/maps/
 RUN cat /usr/local/etc/haproxy/haproxy.cfg
 RUN cat /etc/haproxy/maps/hosts.map
