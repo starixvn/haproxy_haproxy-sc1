@@ -28,3 +28,5 @@
 /casinoholdempoker/ l1_casino_holdem_poker_service_PROD_be
 /hilo/ l1_hilo_service_PROD_be
 /bitcoinmaster/ l1_bitcoin_master_service_PROD_be
+/texasholdempoker/ l1_texas_holdem_poker_service_PROD_be
+/monitoring/ l1_admin_monitoring_site_PROD_be
