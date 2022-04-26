@@ -30,3 +30,4 @@
 /bitcoinmaster/ l1_bitcoin_master_service_PROD_be
 /texasholdempoker/ l1_texas_holdem_poker_service_PROD_be
 /monitoring/ l1_admin_monitoring_site_PROD_be
+/nightclub/ l1_night_club_service_PROD_be
