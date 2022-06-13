@@ -4,7 +4,7 @@ testing.lumigame.com nexops_test_services_be
 oldgames.lumigame.com l1_oldgame_client_LOCAL_be
 l1-m.lumigame.com l1_game_client_mobi_LOCAL_be
 games.lumigame.com l1_game_client_LOCAL_be
-api.lumigame.com l1_game_api_LOCAL_be
+api.lumigame.com l1_sg_api_LOCAL_be
 auth.lumigame.com l1_auth_api_LOCAL_be
 admin.lumigame.com l1_admin_site_LOCAL_be
 admin-api.lumigame.com l1_admin_api_LOCAL_be
