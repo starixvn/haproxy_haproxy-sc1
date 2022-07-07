@@ -38,3 +38,4 @@
 /bitcoinmaster/ l1_bitcoin_master_service_LOCAL_2_be
 /game-client-47/ l1_treasure_island_client_LOCAL_2_be
 /waytogoal/	l1_way_to_goal_service_LOCAL_2_be
+/game/ l1_game_configuration_service_LOCAL_2_be
