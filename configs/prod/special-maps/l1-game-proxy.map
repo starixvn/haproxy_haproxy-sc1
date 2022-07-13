@@ -32,3 +32,4 @@
 /monitoring/ l1_admin_monitoring_site_PROD_be
 /nightclub/ l1_night_club_service_PROD_be
 /notification/ l1_notification_service_PROD_be
+/game-client-47/ l1_treasure_island_client_PROD_be
