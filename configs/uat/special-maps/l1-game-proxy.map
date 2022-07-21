@@ -37,6 +37,7 @@
 /uat/notification/ l1_notification_service_UAT_be
 /uat/game-client-47/ l1_treasure_island_client_UAT_be
 /uat/blockchainbaccarat/ l1_blockchain_baccarat_service_UAT_be
+/uat/game-client-48/ l1_blockchain_baccarat_client_UAT_be
 
 ###SIT
 /sit/ l1_game_server_SIT_be
@@ -77,3 +78,4 @@
 /sit/notification/ l1_notification_service_SIT_be
 /sit/game-client-47/ l1_treasure_island_client_SIT_be
 /sit/blockchainbaccarat/ l1_blockchain_baccarat_service_SIT_be
+/sit/game-client-48/ l1_blockchain_baccarat_client_SIT_be
