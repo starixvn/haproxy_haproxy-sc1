@@ -32,7 +32,7 @@ l1-mini1.lumigame.com l1_instant_game_client_LOCAL_1_be
 #L1 LOCAL2
 l1-m2.lumigame.com l1_game_client_mobi_LOCAL_2_be
 l1-games2.lumigame.com l1_game_client_LOCAL_2_be
-l1-api2.lumigame.com l1_game_api_LOCAL_2_be
+l1-api2.lumigame.com l1_sg_api_LOCAL_2_be
 l1-auth2.lumigame.com l1_auth_api_LOCAL_2_be
 l1-admin2.lumigame.com l1_admin_site_LOCAL_2_be
 l1-admin-api2.lumigame.com l1_admin_api_LOCAL_2_be
