@@ -15,7 +15,7 @@ intl1sitresult.sgamesuat.com l1_game_result_SIT_be
 
 #UAT - L1
 l1uat.sgamesuat.com l1_game_client_UAT_be
-l1uatapi.sgamesuat.com l1_game_api_UAT_be
+l1uatapi.sgamesuat.com l1_sg_api_UAT_be
 l1uatadm.sgamesuat.com l1_admin_site_UAT_be
 l1uatresult.sgamesuat.com l1_game_result_UAT_be
 l1uatm.sgamesuat.com l1_game_client_mobi_UAT_be
@@ -23,5 +23,5 @@ l1guidesuat.sgamesuat.com l1_game_guides_UAT_be
 #l1socceruat.sgamesuat.com nexops_whoami_api_nodes
 l1miniuat.sgamesuat.com l1_instant_game_client_UAT_be
 l1gwuat.sgamesuat.com l1_socket_gateway_UAT_be
-intl1uatapi.sgamesuat.com l1_game_api_UAT_be
+intl1uatapi.sgamesuat.com l1_sg_api_UAT_be
 intl1uatresult.sgamesuat.com l1_game_result_UAT_be
