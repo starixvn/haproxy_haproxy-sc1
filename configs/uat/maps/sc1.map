@@ -1,6 +1,6 @@
 #SIT - L1
 l1sit.sgamesuat.com l1_game_client_SIT_be
-l1sitapi.sgamesuat.com l1_game_api_SIT_be
+l1sitapi.sgamesuat.com l1_sg_api_SIT_be
 l1sitadm.sgamesuat.com l1_admin_site_SIT_be
 l1sitresult.sgamesuat.com l1_game_result_SIT_be
 l1sitm.sgamesuat.com l1_game_client_mobi_SIT_be
@@ -10,7 +10,7 @@ l1minisit.sgamesuat.com l1_instant_game_client_SIT_be
 l1gwsit.sgamesuat.com l1_socket_gateway_SIT_be
 l1sitows.sgamesuat.com l1_ow_api_simulator_SIT_be
 l1sitglbs.sgamesuat.com l1_game_lobby_simulator_SIT_be
-intl1sitapi.sgamesuat.com l1_game_api_SIT_be
+intl1sitapi.sgamesuat.com l1_sg_api_SIT_be
 intl1sitresult.sgamesuat.com l1_game_result_SIT_be
 
 #UAT - L1
