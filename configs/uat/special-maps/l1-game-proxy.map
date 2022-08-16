@@ -40,6 +40,7 @@
 /uat/game-client-48/ l1_blockchain_baccarat_client_UAT_be
 /uat/game-client-50/ l1_unbalanced_bigsmall_client_UAT_be
 /uat/unbalancedbigsmall/ l1_unbalanced_bigsmall_service_UAT_be
+/uat/game/ l1_game_configuration_service_UAT_be
 
 ###SIT
 /sit/ l1_game_server_SIT_be
@@ -83,3 +84,4 @@
 /sit/game-client-48/ l1_blockchain_baccarat_client_SIT_be
 /sit/game-client-50/ l1_unbalanced_bigsmall_client_SIT_be
 /sit/unbalancedbigsmall/ l1_unbalanced_bigsmall_service_SIT_be
+/sit/game/ l1_game_configuration_service_SIT_be
