@@ -1,5 +1,4 @@
-/ l1_game_server_PROD_be
-/main/ l1_game_server_PROD_be
+/ l1_notification_service_PROD_be
 /sedie/ l1_sedie_service_PROD_be
 /vsedie/ l1_vip_sedie_service_PROD_be
 /specialsedie/ l1_special_sedie_service_PROD_be
