@@ -43,3 +43,5 @@
 /unbalancedbigsmall/ l1_unbalanced_bigsmall_service_LOCAL_3_be
 /game-client-50/ l1_unbalanced_bigsmall_client_LOCAL_3_be
 /game-client-9/ l1_mini_sedie_client_LOCAL_3_be
+/game-client-59/ l1_fruit_slot_client_LOCAL_3_be
+/fruitslot/ l1_fruit_slot_service_LOCAL_3_be
