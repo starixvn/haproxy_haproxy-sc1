@@ -30,6 +30,7 @@
 /hilo/ l1_hilo_service_LOCAL_3_be
 /nightclub/	l1_night_club_service_LOCAL_3_be
 /monitoring/ l1_admin_monitoring_site_LOCAL_3_be
+/treasureisland/ l1_treasure_island_service_LOCAL_3_be
 /vipsediewarclient/ l1_vip_sedie_war_client_LOCAL_3_be
 /vipsedieclient/ l1_vip_sedie_client_LOCAL_3_be
 /blockchainbaccarat/ l1_blockchain_baccarat_service_LOCAL_3_be
