@@ -14,6 +14,7 @@ result.lumigame.com l1_game_result_LOCAL_be
 l1-gw.lumigame.com l1_socket_gateway_LOCAL_be
 l1-guide.lumigame.com l1_game_guides_LOCAL_be
 l1-mini.lumigame.com l1_instant_game_client_LOCAL_be
+l1-keno.lumigame.com l1_game_client_mega_keno_mobi_LOCAL_be
 
 #L1 LOCAL1
 l1-m1.lumigame.com l1_game_client_mobi_LOCAL_1_be
@@ -28,6 +29,7 @@ l1-result1.lumigame.com l1_game_result_LOCAL_1_be
 l1-gw1.lumigame.com l1_socket_gateway_LOCAL_1_be
 l1-guide-1.lumigame.com l1_game_guides_LOCAL_1_be
 l1-mini1.lumigame.com l1_instant_game_client_LOCAL_1_be
+l1-keno1.lumigame.com l1_game_client_mega_keno_mobi_LOCAL_1_be
 
 #L1 LOCAL2
 l1-m2.lumigame.com l1_game_client_mobi_LOCAL_2_be
@@ -42,6 +44,7 @@ l1-result2.lumigame.com l1_game_result_LOCAL_2_be
 l1-gw2.lumigame.com l1_socket_gateway_LOCAL_2_be
 l1-guide-2.lumigame.com l1_game_guides_LOCAL_2_be
 l1-mini2.lumigame.com l1_instant_game_client_LOCAL_2_be
+l1-keno2.lumigame.com l1_game_client_mega_keno_mobi_LOCAL_2_be
 
 #L1 LOCAL3
 l1-m3.lumigame.com l1_game_client_mobi_LOCAL_3_be
@@ -55,3 +58,4 @@ l1-mini3.lumigame.com l1_instant_game_client_LOCAL_3_be
 l1-guide-3.lumigame.com l1_game_guides_LOCAL_3_be
 l1-result3.lumigame.com l1_game_result_LOCAL_3_be
 l1-admin-api3.lumigame.com l1_admin_api_LOCAL_3_be
+l1-keno3.lumigame.com l1_game_client_mega_keno_mobi_LOCAL_3_be
