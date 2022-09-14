@@ -39,3 +39,4 @@
 /game-client-50/ l1_unbalanced_bigsmall_client_PROD_be
 /unbalancedbigsmall/ l1_unbalanced_bigsmall_service_PROD_be
 /waytogoal/ l1_way_to_goal_service_PROD_be
+/game-client-49/ l1_way_to_goal_client_PROD_be
