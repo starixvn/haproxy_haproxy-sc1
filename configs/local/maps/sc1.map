@@ -16,7 +16,7 @@ l1-guide.lumigame.com l1_game_guides_LOCAL_be
 l1-mini.lumigame.com l1_instant_game_client_LOCAL_be
 l1-keno.lumigame.com l1_game_client_mega_keno_mobi_LOCAL_be
 notification-bot.lumigame.com l1_automation_test_notification_bot_LOCAL_be
-ci-notification-bot.lumigame.com l1_ci_notification_bot_LOCAL_be
+ci-bot.lumigame.com l1_ci_notification_bot_LOCAL_be
 
 #L1 LOCAL1
 l1-m1.lumigame.com l1_game_client_mobi_LOCAL_1_be
