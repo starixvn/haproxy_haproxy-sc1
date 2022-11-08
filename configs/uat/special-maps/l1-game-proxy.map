@@ -46,6 +46,7 @@
 /uat/game-client-9/ l1_mini_sedie_client_UAT_be
 /uat/game-client-52/ l1_mega_keno_client_UAT_be
 /uat/fruitslot/ l1_fruit_slot_service_UAT_be
+/uat/game-client-59/ l1_fruit_slot_client_UAT_be
 
 ###SIT
 /sit/ l1_game_server_SIT_be
@@ -95,4 +96,5 @@
 /sit/game-client-9/ l1_mini_sedie_client_SIT_be
 /sit/game-client-52/ l1_mega_keno_client_SIT_be
 /sit/fruitslot/ l1_fruit_slot_service_SIT_be
+/sit/game-client-59/ l1_fruit_slot_client_SIT_be
 
