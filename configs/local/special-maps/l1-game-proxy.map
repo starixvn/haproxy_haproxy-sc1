@@ -52,3 +52,4 @@
 ^/fantan/ l1_fantan_service_LOCAL_be
 ^/game-client-60/ l1_fantan_client_LOCAL_be
 ^/fortunecat/ l1_fortune_cat_service_LOCAL_be
+^/game-client-62/ l1_fortune_cat_client_LOCAL_be
