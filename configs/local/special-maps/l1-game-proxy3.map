@@ -52,3 +52,4 @@
 ^/fortunecat/ l1_fortune_cat_service_LOCAL_3_be
 ^/game-client-62/ l1_fortune_cat_client_LOCAL_3_be
 ^/winthreecards/ l1_win_three_cards_service_LOCAL_3_be
+^/game-client-61/ l1_win_three_cards_client_LOCAL_3_be
