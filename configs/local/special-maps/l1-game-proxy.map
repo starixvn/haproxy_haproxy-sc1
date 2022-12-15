@@ -1,3 +1,4 @@
+^/poc-game-client-1(/.*)?$ pentagon_l1_dragon_tiger_client_test_LOCAL_path_be
 ^/api1/ nexops_test_services2_be
 ^/api2/ nexops_test_services3_be
 ^/main/  l1_game_server_LOCAL_be
@@ -55,4 +56,3 @@
 ^/game-client-62/ l1_fortune_cat_client_LOCAL_be
 ^/winthreecards/ l1_win_three_cards_service_LOCAL_be
 ^/game-client-61/ l1_win_three_cards_client_LOCAL_be
-^/game-dragon-tiger-test/ l1_dragon_tiger_client_test_LOCAL_be
