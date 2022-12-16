@@ -56,3 +56,5 @@
 ^/game-client-62/ l1_fortune_cat_client_LOCAL_be
 ^/winthreecards/ l1_win_three_cards_service_LOCAL_be
 ^/game-client-61/ l1_win_three_cards_client_LOCAL_be
+^/poc-game-client-2(/.*)?$ pentagon_l1_baccarat_client_test_LOCAL_path_be
+^/poc-game-client-lobby(/.*)?$ pentagon_l1_lobby_test_LOCAL_path_be
