@@ -1,3 +1,5 @@
+^/sit/fortunecat(/.*)?$ pentagon_l1_fortune_cat_service_SIT_path_be
+^/uat/fortunecat(/.*)?$ pentagon_l1_fortune_cat_service_UAT_path_be
 ###UAT
 ^/uat/main/ l1_game_server_UAT_be
 ^/uat/sedie/ l1_sedie_service_UAT_be
