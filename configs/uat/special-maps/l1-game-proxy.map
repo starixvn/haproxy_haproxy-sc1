@@ -1,4 +1,5 @@
 ^/sit/winthreecards(/.*)?$ pentagon_l1_win_three_cards_service_SIT_path_be
+^/uat/winthreecards(/.*)?$ pentagon_l1_win_three_cards_service_UAT_path_be
 ^/sit/fortunecat(/.*)?$ pentagon_l1_fortune_cat_service_SIT_path_be
 ^/uat/fortunecat(/.*)?$ pentagon_l1_fortune_cat_service_UAT_path_be
 ###UAT
