@@ -1,5 +1,5 @@
+^/game-client-62(/.*)?$ pentagon_l1_fortune_cat_client_LOCAL_2_path_be
 ^/game-client-99(/.*)?$ pentagon_l1_happy_fish_client_LOCAL_2_path_be
-^/game-client-62/versions.json(/.*)?$ pentagon_l1_fortune_cat_client_LOCAL_2_path_be
 ^/main/  l1_game_server_LOCAL_2_be
 ^/sedie/ l1_sedie_service_LOCAL_2_be
 ^/vsedie/ l1_vip_sedie_service_LOCAL_2_be
