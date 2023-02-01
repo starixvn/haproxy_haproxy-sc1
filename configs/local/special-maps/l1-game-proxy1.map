@@ -1,3 +1,4 @@
+^/game-client-62/versions.json(/.*)?$ pentagon_l1_fortune_cat_client_LOCAL_1_path_be
 ^/magicdark(/.*)?$ pentagon_l1_magicdark_service_LOCAL_1_path_be
 ^/happyfish(/.*)?$ pentagon_l1_happyfish_service_LOCAL_1_path_be
 ^/main/  l1_game_server_LOCAL_1_be
@@ -52,6 +53,5 @@
 ^/fantan/ l1_fantan_service_LOCAL_1_be
 ^/game-client-60/ l1_fantan_client_LOCAL_1_be
 ^/fortunecat/ l1_fortune_cat_service_LOCAL_1_be
-^/game-client-62/ l1_fortune_cat_client_LOCAL_1_be
 ^/winthreecards/ l1_win_three_cards_service_LOCAL_1_be
 ^/game-client-61/ l1_win_three_cards_client_LOCAL_1_be
