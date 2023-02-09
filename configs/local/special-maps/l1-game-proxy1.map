@@ -1,7 +1,7 @@
 ^/game-client-62(/.*)?$ pentagon_l1_fortune_cat_client_LOCAL_1_path_be
 ^/game-client-99(/.*)?$ pentagon_l1_happy_fish_client_LOCAL_1_path_be
 ^/magicdark(/.*)?$ pentagon_l1_magicdark_service_LOCAL_1_path_be
-^/happyfish(/.*)?$ pentagon_l1_happyfish_service_LOCAL_1_path_be
+^/happyfish(/.*)?$ pentagon_l1_happy_fish_service_LOCAL_1_path_be
 ^/main/  l1_game_server_LOCAL_1_be
 ^/sedie/ l1_sedie_service_LOCAL_1_be
 ^/vsedie/ l1_vip_sedie_service_LOCAL_1_be
