@@ -32,6 +32,7 @@ l1-gw1.lumigame.com l1_socket_gateway_LOCAL_1_be
 l1-guide-1.lumigame.com l1_game_guides_LOCAL_1_be
 l1-mini1.lumigame.com l1_instant_game_client_LOCAL_1_be
 l1-keno1.lumigame.com l1_game_client_mega_keno_mobi_LOCAL_1_be
+notification-bot1.lumigame.com l1_automation_test_notification_bot_LOCAL_1_be
 
 #L1 LOCAL2
 l1-m2.lumigame.com l1_game_client_mobi_LOCAL_2_be
