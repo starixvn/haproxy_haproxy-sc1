@@ -1,4 +1,4 @@
-^/game-client-63(/.*)?$ pentagon_l1_happy_ocean_client_LOCAL_path_be
+^/game-client-63(/.*)?$ pentagon_l1_happy_fish_client_LOCAL_path_be
 ^/game-client-62(/.*)?$ pentagon_l1_fortune_cat_client_LOCAL_path_be
 ^/poc-game-client-1(/.*)?$ pentagon_l1_dragon_tiger_client_test_LOCAL_path_be
 ^/api1/ nexops_test_services2_be
