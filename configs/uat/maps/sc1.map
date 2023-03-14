@@ -29,7 +29,7 @@ intl1uatresult.sgamesuat.com l1_game_result_UAT_be
 l1uatkeno.sgamesuat.com l1_game_client_mega_keno_mobi_UAT_be
 
 #PFF
-client.saba.games l1_game_client_SIT_be
+demo.saba.games l1_game_client_SIT_be
 api.saba.games l1_sg_api_SIT_be
 m.saba.games l1_game_client_mobi_SIT_be
 guides.saba.games l1_game_guides_SIT_be
