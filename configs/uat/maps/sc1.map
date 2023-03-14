@@ -1,4 +1,3 @@
-l1sitinfo.sgamesuat.com pentagon_l1_info_site_client_SIT_be
 #SIT - L1
 l1sit.sgamesuat.com l1_game_client_SIT_be
 l1sitapi.sgamesuat.com l1_sg_api_SIT_be
@@ -28,3 +27,13 @@ l1gwuat.sgamesuat.com l1_socket_gateway_UAT_be
 intl1uatapi.sgamesuat.com l1_sg_api_UAT_be
 intl1uatresult.sgamesuat.com l1_game_result_UAT_be
 l1uatkeno.sgamesuat.com l1_game_client_mega_keno_mobi_UAT_be
+
+#PFF
+client.saba.games l1_game_client_SIT_be
+api.saba.games l1_sg_api_SIT_be
+m.saba.games l1_game_client_mobi_SIT_be
+guides.saba.games l1_game_guides_SIT_be
+mini.saba.games l1_instant_game_client_SIT_be
+gw.saba.games l1_socket_gateway_SIT_be
+keno.saba.games l1_game_client_mega_keno_mobi_SIT_be
+www.saba.games pentagon_l1_info_site_client_SIT_be
