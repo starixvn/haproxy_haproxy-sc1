@@ -1,3 +1,4 @@
+^/happyfish(/.*)?$ pentagon_l1_happy_fish_service_LOCAL_path_be
 ^/game-client-64(/.*)?$ pentagon_l1_magic_forest_client_LOCAL_path_be
 ^/magicforest(/.*)?$ pentagon_l1_magic_forest_service_LOCAL_path_be
 ^/vivadzopolicy(/.*)?$ pentagon_l1_vivadzo_policy_service_LOCAL_path_be
