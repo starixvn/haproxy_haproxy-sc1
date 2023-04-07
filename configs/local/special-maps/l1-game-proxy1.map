@@ -1,7 +1,7 @@
+^/happyfish(/.*)?$ pentagon_l1_happy_fish_service_LOCAL_1_path_be
 ^/game-client-64(/.*)?$ pentagon_l1_magic_forest_client_LOCAL_1_path_be
 ^/magicforest(/.*)?$ pentagon_l1_magic_forest_service_LOCAL_1_path_be
 ^/game-client-63(/.*)?$ pentagon_l1_happy_fish_client_LOCAL_1_path_be
-^/happyfish(/.*)?$ pentagon_l1_happy_fish_service_LOCAL_1_path_be
 ^/happyocean(/.*)?$ pentagon_l1_happy_ocean_service_LOCAL_1_path_be
 ^/slot-collection(/.*)?$ pentagon_l1_slot_collection_client_LOCAL_1_path_be
 ^/game-client-62(/.*)?$ pentagon_l1_fortune_cat_client_LOCAL_1_path_be
