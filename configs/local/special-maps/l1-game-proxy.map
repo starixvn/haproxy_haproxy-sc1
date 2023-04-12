@@ -1,3 +1,4 @@
+^/game-client-base-sedie(/.*)?$ pentagon_l1_game_client_base_LOCAL_path_be
 ^/happyfish(/.*)?$ pentagon_l1_happy_fish_service_LOCAL_path_be
 ^/game-client-64(/.*)?$ pentagon_l1_magic_forest_client_LOCAL_path_be
 ^/magicforest(/.*)?$ pentagon_l1_magic_forest_service_LOCAL_path_be
