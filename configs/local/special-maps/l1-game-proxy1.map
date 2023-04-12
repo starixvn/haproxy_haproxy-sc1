@@ -1,3 +1,4 @@
+^/treasureisland2(/.*)?$ pentagon_l1_treasure_island2_service_LOCAL_1_path_be
 ^/happyfish(/.*)?$ pentagon_l1_happy_fish_service_LOCAL_1_path_be
 ^/game-client-64(/.*)?$ pentagon_l1_magic_forest_client_LOCAL_1_path_be
 ^/magicforest(/.*)?$ pentagon_l1_magic_forest_service_LOCAL_1_path_be
