@@ -43,3 +43,12 @@ mini.saba.games l1_instant_game_client_SIT_be
 gw.saba.games l1_socket_gateway_SIT_be
 keno.saba.games l1_game_client_mega_keno_mobi_SIT_be
 www.saba.games pentagon_l1_info_site_client_SIT_be
+
+demo.sabagames.io l1_game_client_SIT_be
+api.sabagames.io l1_sg_api_SIT_be
+m.sabagames.io l1_game_client_mobi_SIT_be
+guides.sabagames.io l1_game_guides_SIT_be
+mini.sabagames.io l1_instant_game_client_SIT_be
+gw.sabagames.io l1_socket_gateway_SIT_be
+keno.sabagames.io l1_game_client_mega_keno_mobi_SIT_be
+www.sabagames.io pentagon_l1_info_site_client_SIT_be
