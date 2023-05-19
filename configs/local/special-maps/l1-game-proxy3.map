@@ -1,3 +1,4 @@
+^/lobby-icons(/.*)?$ pentagon_l1_lobby_icons_LOCAL_3_path_be
 ^/djclub(/.*)?$ pentagon_l1_dj_club_service_LOCAL_3_path_be
 ^/game-client-199(/.*)?$ pentagon_l1_treasure_island2_client_LOCAL_3_path_be
 ^/game-client-64(/.*)?$ pentagon_l1_magic_forest_client_LOCAL_3_path_be
