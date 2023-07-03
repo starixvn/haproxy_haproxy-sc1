@@ -1,3 +1,4 @@
+^/tolgeeauto(/.*)?$ pentagon_l1_tolgee_auto_LOCAL_path_be
 ^/game-client-66(/.*)?$ pentagon_l1_candy_land_client_LOCAL_path_be
 ^/candyland(/.*)?$ pentagon_l1_candy_land_service_LOCAL_path_be
 ^/site-67(/.*)?$ pentagon_l1_dragon_tiger_fight_client_LOCAL_path_be
