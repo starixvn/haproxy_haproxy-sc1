@@ -1,3 +1,4 @@
+^/djclub(/.*)?$ pentagon_l1_dj_club_service_LOCAL_path_be
 ^/tolgeeauto(/.*)?$ pentagon_l1_tolgee_auto_LOCAL_path_be
 ^/game-client-66(/.*)?$ pentagon_l1_candy_land_client_LOCAL_path_be
 ^/candyland(/.*)?$ pentagon_l1_candy_land_service_LOCAL_path_be
@@ -6,7 +7,6 @@
 ^/dragontigerfight(/.*)?$ pentagon_l1_dragon_tiger_fight_service_LOCAL_path_be
 ^/game-client-65(/.*)?$ pentagon_l1_dj_club_client_LOCAL_path_be
 ^/lobby-icons(/.*)?$ pentagon_l1_lobby_icons_LOCAL_path_be
-^/djclub(/.*)?$ pentagon_l1_dj_club_service_LOCAL_path_be
 ^/game-client-199(/.*)?$ pentagon_l1_treasure_island2_client_LOCAL_path_be
 ^/happyfish(/.*)?$ pentagon_l1_happy_fish_service_LOCAL_path_be
 ^/game-client-64(/.*)?$ pentagon_l1_magic_forest_client_LOCAL_path_be
