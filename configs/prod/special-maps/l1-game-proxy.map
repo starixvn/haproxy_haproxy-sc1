@@ -54,3 +54,5 @@
 /happyfish/ l1_happy_fish_service_PROD_be
 /game-client-64/ l1_magic_forest_client_PROD_be
 /magicforest/ l1_magic_forest_service_PROD_be
+/game-client-65/ l1_dj_club_client_PROD_be
+/djclub/ l1_dj_club_service_PROD_be
