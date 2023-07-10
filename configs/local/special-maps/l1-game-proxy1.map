@@ -1,5 +1,5 @@
-^/magicforest(/.*)?$ pentagon_l1_magic_forest_service_LOCAL_1_path_be
 ^/happyfish(/.*)?$ pentagon_l1_happy_fish_service_LOCAL_1_path_be
+^/magicforest(/.*)?$ pentagon_l1_magic_forest_service_LOCAL_1_path_be
 ^/autobot(/.*)?$ pentagon_l1_slot_auto_bot_LOCAL_1_path_be
 ^/djclub(/.*)?$ pentagon_l1_dj_club_service_LOCAL_1_path_be
 ^/game-client-66(/.*)?$ pentagon_l1_candy_land_client_LOCAL_1_path_be

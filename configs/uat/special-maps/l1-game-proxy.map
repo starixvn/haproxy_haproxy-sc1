@@ -1,7 +1,7 @@
-^/sit/magicforest(/.*)?$ pentagon_l1_magic_forest_service_SIT_path_be
-^/uat/magicforest(/.*)?$ pentagon_l1_magic_forest_service_UAT_path_be
 ^/sit/happyfish(/.*)?$ pentagon_l1_happy_fish_service_SIT_path_be
 ^/uat/happyfish(/.*)?$ pentagon_l1_happy_fish_service_UAT_path_be
+^/sit/magicforest(/.*)?$ pentagon_l1_magic_forest_service_SIT_path_be
+^/uat/magicforest(/.*)?$ pentagon_l1_magic_forest_service_UAT_path_be
 ^/uat/game-client-65(/.*)?$ pentagon_l1_dj_club_client_UAT_path_be
 ^/uat/djclub(/.*)?$ pentagon_l1_dj_club_service_UAT_path_be
 ^/uat/candyland(/.*)?$ pentagon_l1_candy_land_service_UAT_path_be
