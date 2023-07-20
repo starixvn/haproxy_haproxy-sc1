@@ -1,3 +1,4 @@
+^/game-client-66(/.*)?$ pentagon_l1_candy_land_client_LOCAL_1_path_be
 ^/game-client-69(/.*)?$ pentagon_l1_blackpink_client_LOCAL_1_path_be
 ^/blackpink(/.*)?$ pentagon_l1_blackpink_service_LOCAL_1_path_be
 ^/missionimpossible(/.*)?$ pentagon_l1_mission_impossible_service_LOCAL_1_path_be
@@ -7,7 +8,6 @@
 ^/magicforest(/.*)?$ pentagon_l1_magic_forest_service_LOCAL_1_path_be
 ^/autobot(/.*)?$ pentagon_l1_slot_auto_bot_LOCAL_1_path_be
 ^/djclub(/.*)?$ pentagon_l1_dj_club_service_LOCAL_1_path_be
-^/game-client-66(/.*)?$ pentagon_l1_candy_land_client_LOCAL_1_path_be
 ^/candyland(/.*)?$ pentagon_l1_candy_land_service_LOCAL_1_path_be
 ^/site-67(/.*)?$ pentagon_l1_dragon_tiger_fight_client_LOCAL_1_path_be
 ^/site-2(/.*)?$ pentagon_l1_game_client_base_LOCAL_1_path_be
