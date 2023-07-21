@@ -1,3 +1,4 @@
+^/multisocket(/.*)?$ pentagon_l1_multi_socket_LOCAL_path_be
 ^/game-client-66(/.*)?$ pentagon_l1_candy_land_client_LOCAL_1_path_be
 ^/game-client-69(/.*)?$ pentagon_l1_blackpink_client_LOCAL_1_path_be
 ^/blackpink(/.*)?$ pentagon_l1_blackpink_service_LOCAL_1_path_be
