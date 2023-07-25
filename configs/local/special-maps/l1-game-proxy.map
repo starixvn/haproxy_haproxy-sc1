@@ -1,3 +1,4 @@
+^/site-67(/.*)?$ pentagon_l1_dragon_tiger_fight_client_LOCAL_path_be
 ^/rtpchecker(/.*)?$ pentagon_l1_rtp_checker_service_LOCAL_path_be
 ^/emitter(/.*)?$ pentagon_l1_emitter_LOCAL_path_be
 ^/game-client-66(/.*)?$ pentagon_l1_candy_land_client_LOCAL_path_be
@@ -12,7 +13,6 @@
 ^/djclub(/.*)?$ pentagon_l1_dj_club_service_LOCAL_path_be
 ^/tolgeeauto(/.*)?$ pentagon_l1_tolgee_auto_LOCAL_path_be
 ^/candyland(/.*)?$ pentagon_l1_candy_land_service_LOCAL_path_be
-^/site-67(/.*)?$ pentagon_l1_dragon_tiger_fight_client_LOCAL_path_be
 ^/site-2(/.*)?$ pentagon_l1_game_client_base_LOCAL_path_be
 ^/dragontigerfight(/.*)?$ pentagon_l1_dragon_tiger_fight_service_LOCAL_path_be
 ^/lobby-icons(/.*)?$ pentagon_l1_lobby_icons_LOCAL_path_be
