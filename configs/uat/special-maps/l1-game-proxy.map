@@ -1,3 +1,5 @@
+^/sit/game-client-111(/.*)?$ pentagon_l1_happy_fish_jackpot_client_SIT_path_be
+^/uat/game-client-111(/.*)?$ pentagon_l1_happy_fish_jackpot_client_UAT_path_be
 ^/sit/blackpink(/.*)?$ pentagon_l1_blackpink_service_SIT_path_be
 ^/uat/blackpink(/.*)?$ pentagon_l1_blackpink_service_UAT_path_be
 ^/sit/game-client-66(/.*)?$ pentagon_l1_candy_land_client_SIT_path_be
