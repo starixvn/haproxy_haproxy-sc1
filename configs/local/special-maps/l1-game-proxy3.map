@@ -1,5 +1,5 @@
-^/game-client-111(/.*)?$ pentagon_l1_happy_fish_jackpot_client_LOCAL_3_path_be
 ^/site-67(/.*)?$ pentagon_l1_dragon_tiger_fight_client_LOCAL_3_path_be
+^/game-client-111(/.*)?$ pentagon_l1_happy_fish_jackpot_client_LOCAL_3_path_be
 ^/rtpchecker(/.*)?$ pentagon_l1_rtp_checker_service_LOCAL_3_path_be
 ^/game-client-69(/.*)?$ pentagon_l1_blackpink_client_LOCAL_3_path_be
 ^/blackpink(/.*)?$ pentagon_l1_blackpink_service_LOCAL_3_path_be
