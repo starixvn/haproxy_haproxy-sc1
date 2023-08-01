@@ -1,3 +1,4 @@
+^/missionimpossible(/.*)?$ pentagon_l1_mission_impossible_service_LOCAL_2_path_be
 ^/site-67(/.*)?$ pentagon_l1_dragon_tiger_fight_client_LOCAL_2_path_be
 ^/autobot(/.*)?$ pentagon_l1_slot_auto_bot_LOCAL_2_path_be
 ^/happyfishjackpot(/.*)?$ pentagon_l1_happy_fish_jackpot_service_LOCAL_2_path_be
@@ -6,7 +7,6 @@
 ^/game-client-66(/.*)?$ pentagon_l1_candy_land_client_LOCAL_2_path_be
 ^/game-client-69(/.*)?$ pentagon_l1_blackpink_client_LOCAL_2_path_be
 ^/blackpink(/.*)?$ pentagon_l1_blackpink_service_LOCAL_2_path_be
-^/missionimpossible(/.*)?$ pentagon_l1_mission_impossible_service_LOCAL_2_path_be
 ^/game-client-68(/.*)?$ pentagon_l1_mission_impossible_client_LOCAL_2_path_be
 ^/game-client-65(/.*)?$ pentagon_l1_dj_club_client_LOCAL_2_path_be
 ^/happyfish(/.*)?$ pentagon_l1_happy_fish_service_LOCAL_2_path_be
