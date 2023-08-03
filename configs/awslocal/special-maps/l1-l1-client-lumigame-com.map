@@ -1,3 +1,4 @@
+^/game-client-9/versions.json(/.*)?$ pentagon_l1_mini_sedie_client_AWSLOCAL_path_be
 ^/game-client-52/versions.json(/.*)?$ pentagon_l1_mega_keno_client_AWSLOCAL_path_be
 ^/game-client-59(/.*)?$ pentagon_l1_fruit_slot_client_AWSLOCAL_path_be
 ^/game-client-65(/.*)?$ pentagon_l1_dj_club_client_AWSLOCAL_path_be
