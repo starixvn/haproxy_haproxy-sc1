@@ -1,9 +1,9 @@
+^/game-client-9(/.*)?$ pentagon_l1_mini_sedie_client_SGLOCAL_path_be
 ^/game-client-63(/.*)?$ pentagon_l1_happy_fish_client_SGLOCAL_path_be
 ^/game-client-62(/.*)?$ pentagon_l1_fortune_cat_client_SGLOCAL_path_be
 ^/game-client-68(/.*)?$ pentagon_l1_mission_impossible_client_SGLOCAL_path_be
 ^/game-client-48(/.*)?$ pentagon_l1_blockchain_baccarat_client_SGLOCAL_path_be
 ^/game-client-50(/.*)?$ pentagon_l1_unbalanced_bigsmall_client_SGLOCAL_path_be
-^/game-client-9/versions.json(/.*)?$ pentagon_l1_mini_sedie_client_SGLOCAL_path_be
 ^/game-client-52/versions.json(/.*)?$ pentagon_l1_mega_keno_client_SGLOCAL_path_be
 ^/game-client-59(/.*)?$ pentagon_l1_fruit_slot_client_SGLOCAL_path_be
 ^/game-client-65(/.*)?$ pentagon_l1_dj_club_client_SGLOCAL_path_be
