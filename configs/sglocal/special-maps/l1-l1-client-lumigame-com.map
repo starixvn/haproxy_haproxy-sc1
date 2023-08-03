@@ -1,3 +1,4 @@
+^/game-client-47(/.*)?$ pentagon_l1_treasure_island_client_SGLOCAL_path_be
 ^/game(/.*)?$ pentagon_l1_game_configuration_service_SGLOCAL_path_be
 ^/game-client-49(/.*)?$ pentagon_l1_way_to_goal_client_SGLOCAL_path_be
 ^/game-client-61(/.*)?$ pentagon_l1_win_three_cards_client_SGLOCAL_path_be
