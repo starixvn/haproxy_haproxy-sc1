@@ -1,3 +1,4 @@
+^/game-client-62(/.*)?$ pentagon_l1_fortune_cat_client_SGLOCAL_path_be
 ^/game-client-68(/.*)?$ pentagon_l1_mission_impossible_client_SGLOCAL_path_be
 ^/game-client-48(/.*)?$ pentagon_l1_blockchain_baccarat_client_SGLOCAL_path_be
 ^/game-client-50(/.*)?$ pentagon_l1_unbalanced_bigsmall_client_SGLOCAL_path_be
@@ -8,7 +9,6 @@
 ^/site-49(/.*)?$ pentagon_l1_way_to_goal_client_SGLOCAL_path_be
 ^/site-64(/.*)?$ pentagon_l1_magic_forest_client_SGLOCAL_path_be
 ^/site-63(/.*)?$ pentagon_l1_happy_fish_client_SGLOCAL_path_be
-^/site-62(/.*)?$ pentagon_l1_fortune_cat_client_SGLOCAL_path_be
 ^/site-61(/.*)?$ pentagon_l1_win_three_cards_client_SGLOCAL_path_be
 ^/game-client-60(/.*)?$ pentagon_l1_fantan_client_SGLOCAL_path_be
 ^/site-67(/.*)?$ pentagon_l1_dragon_tiger_fight_client_SGLOCAL_path_be
