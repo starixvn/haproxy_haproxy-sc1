@@ -1,3 +1,4 @@
+^/game-client-49(/.*)?$ pentagon_l1_way_to_goal_client_SGLOCAL_path_be
 ^/game-client-69(/.*)?$ pentagon_l1_blackpink_client_SGLOCAL_path_be
 ^/game-client-61(/.*)?$ pentagon_l1_win_three_cards_client_SGLOCAL_path_be
 ^/game-client-48(/.*)?$ pentagon_l1_blockchain_baccarat_client_SGLOCAL_path_be
@@ -10,6 +11,5 @@
 ^/game-client-50(/.*)?$ pentagon_l1_unbalanced_bigsmall_client_SGLOCAL_path_be
 ^/game-client-59(/.*)?$ pentagon_l1_fruit_slot_client_SGLOCAL_path_be
 ^/game-client-65(/.*)?$ pentagon_l1_dj_club_client_SGLOCAL_path_be
-^/site-49(/.*)?$ pentagon_l1_way_to_goal_client_SGLOCAL_path_be
 ^/game-client-60(/.*)?$ pentagon_l1_fantan_client_SGLOCAL_path_be
 ^/site-67(/.*)?$ pentagon_l1_dragon_tiger_fight_client_SGLOCAL_path_be
