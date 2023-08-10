@@ -62,7 +62,6 @@
 ^/uat/notification/ l1_notification_service_UAT_be
 ^/uat/game-client-47/ l1_treasure_island_client_UAT_be
 ^/uat/blockchainbaccarat/ l1_blockchain_baccarat_service_UAT_be
-^/uat/game-client-50/ l1_unbalanced_bigsmall_client_UAT_be
 ^/uat/unbalancedbigsmall/ l1_unbalanced_bigsmall_service_UAT_be
 ^/uat/waytogoal/ l1_way_to_goal_service_UAT_be
 ^/uat/fruitslot/ l1_fruit_slot_service_UAT_be
