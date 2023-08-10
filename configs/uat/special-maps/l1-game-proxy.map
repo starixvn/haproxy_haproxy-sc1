@@ -66,7 +66,6 @@
 ^/uat/unbalancedbigsmall/ l1_unbalanced_bigsmall_service_UAT_be
 ^/uat/waytogoal/ l1_way_to_goal_service_UAT_be
 ^/uat/game-client-9/ l1_mini_sedie_client_UAT_be
-^/uat/game-client-52/ l1_mega_keno_client_UAT_be
 ^/uat/fruitslot/ l1_fruit_slot_service_UAT_be
 ^/uat/fantan/ l1_fantan_service_UAT_be
 ^/uat/ l1_game_server_UAT_be
