@@ -1,3 +1,4 @@
+^/uat/game-client-47(/.*)?$ pentagon_l1_treasure_island_client_UAT_path_be
 ^/uat/game-client-50(/.*)?$ pentagon_l1_unbalanced_bigsmall_client_UAT_path_be
 ^/uat/game-client-9(/.*)?$ pentagon_l1_mini_sedie_client_UAT_path_be
 ^/uat/game-client-52(/.*)?$ pentagon_l1_mega_keno_client_UAT_path_be
