@@ -1,7 +1,6 @@
 ^/uat/game-client-48(/.*)?$ pentagon_l1_blockchain_baccarat_client_UAT_path_be
 ^/uat/game-client-68(/.*)?$ pentagon_l1_mission_impossible_client_UAT_path_be
 ^/uat/game-client-65(/.*)?$ pentagon_l1_dj_club_client_UAT_path_be
-^/uat/game-client-69(/.*)?$ pentagon_l1_blackpink_client_UAT_path_be
 ^/sit/missionimpossible(/.*)?$ pentagon_l1_mission_impossible_service_SIT_path_be
 ^/uat/missionimpossible(/.*)?$ pentagon_l1_mission_impossible_service_UAT_path_be
 ^/sit/game-client-111(/.*)?$ pentagon_l1_happy_fish_jackpot_client_SIT_path_be
