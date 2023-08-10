@@ -1,3 +1,4 @@
+^/uat/game-client-61(/.*)?$ pentagon_l1_win_three_cards_client_AWSUAT_path_be
 ^/uat/game-client-48(/.*)?$ pentagon_l1_blockchain_baccarat_client_AWSUAT_path_be
 ^/uat/game-client-68(/.*)?$ pentagon_l1_mission_impossible_client_AWSUAT_path_be
 ^/uat/game-client-65(/.*)?$ pentagon_l1_dj_club_client_AWSUAT_path_be
@@ -8,7 +9,6 @@
 ^/uat/game-client-59(/.*)?$ pentagon_l1_fruit_slot_client_AWSUAT_path_be
 ^/uat/game-client-60(/.*)?$ pentagon_l1_fantan_client_AWSUAT_path_be
 ^/uat/game-client-62(/.*)?$ pentagon_l1_fortune_cat_client_AWSUAT_path_be
-^/uat/game-client-61(/.*)?$ pentagon_l1_win_three_cards_client_AWSUAT_path_be
 ^/uat/game-client-63(/.*)?$ pentagon_l1_happy_fish_client_AWSUAT_path_be
 ^/uat/game-client-64(/.*)?$ pentagon_l1_magic_forest_client_AWSUAT_path_be
 ^/uat/game-client-49(/.*)?$ pentagon_l1_way_to_goal_client_AWSUAT_path_be

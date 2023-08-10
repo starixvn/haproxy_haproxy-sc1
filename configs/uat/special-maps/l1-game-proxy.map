@@ -26,7 +26,6 @@
 ^/uat/game-client-63(/.*)?$ pentagon_l1_happy_fish_client_UAT_path_be
 ^/uat/happyocean(/.*)?$ pentagon_l1_happy_ocean_service_UAT_path_be
 ^/sit/game-client-61(/.*)?$ pentagon_l1_win_three_cards_client_SIT_path_be
-^/uat/game-client-61(/.*)?$ pentagon_l1_win_three_cards_client_UAT_path_be
 ^/sit/winthreecards(/.*)?$ pentagon_l1_win_three_cards_service_SIT_path_be
 ^/uat/winthreecards(/.*)?$ pentagon_l1_win_three_cards_service_UAT_path_be
 ^/sit/fortunecat(/.*)?$ pentagon_l1_fortune_cat_service_SIT_path_be
