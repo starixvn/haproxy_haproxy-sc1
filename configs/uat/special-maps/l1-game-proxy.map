@@ -71,7 +71,6 @@
 ^/uat/fruitslot/ l1_fruit_slot_service_UAT_be
 ^/uat/game-client-59/ l1_fruit_slot_client_UAT_be
 ^/uat/game-client-60/ l1_fantan_client_UAT_be
-^/uat/game-client-62/ l1_fortune_cat_client_UAT_be
 ^/uat/fantan/ l1_fantan_service_UAT_be
 ^/uat/ l1_game_server_UAT_be
 
