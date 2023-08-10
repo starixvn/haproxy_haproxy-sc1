@@ -1,3 +1,4 @@
+^/uat/game(/.*)?$ pentagon_l1_game_configuration_service_AWSUAT_path_be
 ^/uat/game-client-63(/.*)?$ pentagon_l1_happy_fish_client_AWSUAT_path_be
 ^/uat/game-client-64(/.*)?$ pentagon_l1_magic_forest_client_AWSUAT_path_be
 ^/uat/game-client-49(/.*)?$ pentagon_l1_way_to_goal_client_AWSUAT_path_be
@@ -12,5 +13,4 @@
 ^/uat/game-client-59(/.*)?$ pentagon_l1_fruit_slot_client_AWSUAT_path_be
 ^/uat/game-client-60(/.*)?$ pentagon_l1_fantan_client_AWSUAT_path_be
 ^/uat/game-client-62(/.*)?$ pentagon_l1_fortune_cat_client_AWSUAT_path_be
-^/uat/game(/.*)?$ pentagon_l1_game_configuration_service_AWSUAT_path_be
 ^/uat/game-client-47(/.*)?$ pentagon_l1_treasure_island_client_AWSUAT_path_be

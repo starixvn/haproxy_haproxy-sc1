@@ -65,7 +65,6 @@
 ^/uat/blockchainbaccarat/ l1_blockchain_baccarat_service_UAT_be
 ^/uat/game-client-50/ l1_unbalanced_bigsmall_client_UAT_be
 ^/uat/unbalancedbigsmall/ l1_unbalanced_bigsmall_service_UAT_be
-^/uat/game/ l1_game_configuration_service_UAT_be
 ^/uat/waytogoal/ l1_way_to_goal_service_UAT_be
 ^/uat/game-client-9/ l1_mini_sedie_client_UAT_be
 ^/uat/game-client-52/ l1_mega_keno_client_UAT_be
