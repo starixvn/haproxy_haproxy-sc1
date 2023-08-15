@@ -1,3 +1,4 @@
+^/uat/game-client-66(/.*)?$ pentagon_l1_candy_land_client_AWSUAT_path_be
 ^/uat/game-client-47(/.*)?$ pentagon_l1_treasure_island_client_AWSUAT_path_be
 ^/uat/game-client-48(/.*)?$ pentagon_l1_blockchain_baccarat_client_AWSUAT_path_be
 ^/uat/game-client-62(/.*)?$ pentagon_l1_fortune_cat_client_AWSUAT_path_be
