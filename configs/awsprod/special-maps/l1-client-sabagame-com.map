@@ -1,3 +1,4 @@
+^/game-client-63(/.*)?$ pentagon_l1_happy_fish_client_AWSPROD_path_be
 ^/game(/.*)?$ pentagon_l1_game_configuration_service_AWSPROD_path_be
 ^/game-client-59(/.*)?$ pentagon_l1_fruit_slot_client_AWSPROD_path_be
 ^/game-client-62(/.*)?$ pentagon_l1_fortune_cat_client_AWSPROD_path_be
