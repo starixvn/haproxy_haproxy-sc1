@@ -1,3 +1,4 @@
+^/transformers(/.*)?$ pentagon_l1_transformers__service_LOCAL_1_path_be
 ^/connectioncheck(/.*)?$ pentagon_l1_connection_auto_test_service_LOCAL_1_path_be
 ^/missionimpossible(/.*)?$ pentagon_l1_mission_impossible_service_LOCAL_1_path_be
 ^/site-67(/.*)?$ pentagon_l1_dragon_tiger_fight_client_LOCAL_1_path_be

@@ -1,3 +1,5 @@
+^/sit/transformers(/.*)?$ pentagon_l1_transformers__service_SIT_path_be
+^/uat/transformers(/.*)?$ pentagon_l1_transformers__service_UAT_path_be
 ^/sit/djclub(/.*)?$ pentagon_l1_dj_club_service_SIT_path_be
 ^/uat/djclub(/.*)?$ pentagon_l1_dj_club_service_UAT_path_be
 ^/sit/missionimpossible(/.*)?$ pentagon_l1_mission_impossible_service_SIT_path_be
