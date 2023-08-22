@@ -20,6 +20,12 @@ intl1sitapi.sgamesuat.com l1_sg_api_SIT_be
 intl1sitresult.sgamesuat.com l1_game_result_SIT_be
 l1sitkeno.sgamesuat.com l1_game_client_mega_keno_mobi_SIT_be
 
+l1sitdl.foodpandaoh.net pentagon_l1_app_download_site_client_SIT_be
+l1sitkeno.foodpandaoh.net l1_game_client_mega_keno_mobi_SIT_be
+l1sit.foodpandaoh.net l1_game_client_SIT_be
+l1minisit.foodpandaoh.net l1_instant_game_client_SIT_be
+l1sitm.foodpandaoh.net l1_game_client_mobi_SIT_be
+
 #UAT - L1
 l1uat.sgamesuat.com l1_game_client_UAT_be
 l1uatapi.sgamesuat.com l1_sg_api_UAT_be
@@ -33,6 +39,12 @@ l1gwuat.sgamesuat.com l1_socket_gateway_UAT_be
 intl1uatapi.sgamesuat.com l1_sg_api_UAT_be
 intl1uatresult.sgamesuat.com l1_game_result_UAT_be
 l1uatkeno.sgamesuat.com l1_game_client_mega_keno_mobi_UAT_be
+
+l1uatdl.foodpandaoh.net pentagon_l1_app_download_site_client_UAT_be
+l1uatkeno.foodpandaoh.net l1_game_client_mega_keno_mobi_UAT_be
+l1uat.foodpandaoh.net l1_game_client_UAT_be
+l1miniuat.foodpandaoh.net l1_instant_game_client_UAT_be
+l1uatm.foodpandaoh.net l1_game_client_mobi_UAT_be
 
 #PFF
 demo.saba.games l1_game_client_SIT_be
