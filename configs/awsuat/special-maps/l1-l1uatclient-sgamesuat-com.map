@@ -15,3 +15,22 @@
 ^/uat/game-client-52(/.*)?$ pentagon_l1_mega_keno_client_AWSUAT_path_be
 ^/uat/game-client-59(/.*)?$ pentagon_l1_fruit_slot_client_AWSUAT_path_be
 ^/uat/game-client-60(/.*)?$ pentagon_l1_fantan_client_AWSUAT_path_be
+
+
+^/sit/game-client-66(/.*)?$ pentagon_l1_candy_land_client_AWSSIT_path_be
+^/sit/game-client-47(/.*)?$ pentagon_l1_treasure_island_client_AWSSIT_path_be
+^/sit/game-client-48(/.*)?$ pentagon_l1_blockchain_baccarat_client_AWSSIT_path_be
+^/sit/game-client-62(/.*)?$ pentagon_l1_fortune_cat_client_AWSSIT_path_be
+^/sit/game(/.*)?$ pentagon_l1_game_configuration_service_AWSSIT_path_be
+^/sit/game-client-63(/.*)?$ pentagon_l1_happy_fish_client_AWSSIT_path_be
+^/sit/game-client-64(/.*)?$ pentagon_l1_magic_forest_client_AWSSIT_path_be
+^/sit/game-client-49(/.*)?$ pentagon_l1_way_to_goal_client_AWSSIT_path_be
+^/sit/game-client-61(/.*)?$ pentagon_l1_win_three_cards_client_AWSSIT_path_be
+^/sit/game-client-68(/.*)?$ pentagon_l1_mission_impossible_client_AWSSIT_path_be
+^/sit/game-client-65(/.*)?$ pentagon_l1_dj_club_client_AWSSIT_path_be
+^/sit/game-client-69(/.*)?$ pentagon_l1_blackpink_client_AWSSIT_path_be
+^/sit/game-client-50(/.*)?$ pentagon_l1_unbalanced_bigsmall_client_AWSSIT_path_be
+^/sit/game-client-9(/.*)?$ pentagon_l1_mini_sedie_client_AWSSIT_path_be
+^/sit/game-client-52(/.*)?$ pentagon_l1_mega_keno_client_AWSSIT_path_be
+^/sit/game-client-59(/.*)?$ pentagon_l1_fruit_slot_client_AWSSIT_path_be
+^/sit/game-client-60(/.*)?$ pentagon_l1_fantan_client_AWSSIT_path_be
