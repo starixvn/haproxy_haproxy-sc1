@@ -36,6 +36,9 @@ l1-mini.luminetsoft.com l1_instant_game_client_LOCAL_be
 l1-keno.lumigame.com l1_game_client_mega_keno_mobi_LOCAL_be
 notification-bot.luminetsoft.com l1_automation_test_notification_bot_LOCAL_be
 ci-bot.luminetsoft.com l1_ci_notification_bot_LOCAL_be
+l1-appdownload.luminetsoft.com pentagon_l1_app_download_site_client_LOCAL_be
+connectsite.luminetsoft.com pentagon_l1_sg_connect_site_LOCAL_be
+l1-connectapi.luminetsoft.com pentagon_l1_sg_connect_api_LOCAL_be
 
 #L1 LOCAL1
 l1-m1.luminetsoft.com l1_game_client_mobi_LOCAL_1_be
@@ -51,6 +54,9 @@ l1-gw1.luminetsoft.com l1_socket_gateway_LOCAL_1_be
 l1-guide-1.luminetsoft.com l1_game_guides_LOCAL_1_be
 l1-mini1.luminetsoft.com l1_instant_game_client_LOCAL_1_be
 l1-keno1.luminetsoft.com l1_game_client_mega_keno_mobi_LOCAL_1_be
+l1-appdownload1.luminetsoft.com pentagon_l1_app_download_site_client_LOCAL_1_be
+l1-connectsite1.luminetsoft.com pentagon_l1_sg_connect_site_LOCAL_1_be
+l1-connectapi1.luminetsoft.com pentagon_l1_sg_connect_api_LOCAL_1_be
 
 #L1 LOCAL2
 l1-m2.luminetsoft.com l1_game_client_mobi_LOCAL_2_be
@@ -66,6 +72,9 @@ l1-gw2.luminetsoft.com l1_socket_gateway_LOCAL_2_be
 l1-guide-2.luminetsoft.com l1_game_guides_LOCAL_2_be
 l1-mini2.luminetsoft.com l1_instant_game_client_LOCAL_2_be
 l1-keno2.luminetsoft.com l1_game_client_mega_keno_mobi_LOCAL_2_be
+l1-appdownload2.luminetsoft.com pentagon_l1_app_download_site_client_LOCAL_2_be
+l1-connectsite2.luminetsoft.com pentagon_l1_sg_connect_site_LOCAL_2_be
+l1-connectapi2.luminetsoft.com pentagon_l1_sg_connect_api_LOCAL_2_be
 
 #L1 LOCAL3
 l1-m3.luminetsoft.com l1_game_client_mobi_LOCAL_3_be
@@ -85,3 +94,6 @@ l1-test-games3.luminetsoft.com l1_game_client_LOCAL_3_be
 l1-test-mini3.luminetsoft.com l1_instant_game_client_LOCAL_3_be
 l1-test-m3.luminetsoft.com l1_game_client_mobi_LOCAL_3_be
 l1-test-keno3.luminetsoft.com l1_game_client_mega_keno_mobi_LOCAL_3_be
+l1-appdownload3.luminetsoft.com pentagon_l1_app_download_site_client_LOCAL_3_be
+l1-connectsite3.luminetsoft.com pentagon_l1_sg_connect_site_LOCAL_3_be
+l1-connectapi3.luminetsoft.com pentagon_l1_sg_connect_api_LOCAL_3_be
