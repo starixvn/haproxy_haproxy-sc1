@@ -1,24 +1,18 @@
-l1sitdownload.sgamesuat.com pentagon_l1_app_download_site_client_SIT_be
-l1uatdownload.sgamesuat.com pentagon_l1_app_download_site_client_UAT_be
 l1sitconnectsite.sgamesuat.com pentagon_l1_sg_connect_site_SIT_be
 l1uatconnectsite.sgamesuat.com pentagon_l1_sg_connect_site_UAT_be
 l1uatconnectapi.sgamesuat.com pentagon_l1_sg_connect_api_UAT_be
 l1sitconnectapi.sgamesuat.com pentagon_l1_sg_connect_api_SIT_be
 #SIT - L1
-l1sit.sgamesuat.com l1_game_client_SIT_be
 l1sitapi.sgamesuat.com l1_sg_api_SIT_be
 l1sitadm.sgamesuat.com l1_admin_site_SIT_be
 l1sitresult.sgamesuat.com l1_game_result_SIT_be
-l1sitm.sgamesuat.com l1_game_client_mobi_SIT_be
 l1guidessit.sgamesuat.com l1_game_guides_SIT_be
 l1soccersit.sgamesuat.com default_backend_nodes
-l1minisit.sgamesuat.com l1_instant_game_client_SIT_be
 l1gwsit.sgamesuat.com l1_socket_gateway_SIT_be
 l1sitows.sgamesuat.com l1_ow_api_simulator_SIT_be
 l1sitglbs.sgamesuat.com l1_game_lobby_simulator_SIT_be
 intl1sitapi.sgamesuat.com l1_sg_api_SIT_be
 intl1sitresult.sgamesuat.com l1_game_result_SIT_be
-l1sitkeno.sgamesuat.com l1_game_client_mega_keno_mobi_SIT_be
 
 l1sitdl.foodpandaoh.net pentagon_l1_app_download_site_client_SIT_be
 l1sitkeno.foodpandaoh.net l1_game_client_mega_keno_mobi_SIT_be
@@ -27,18 +21,14 @@ l1minisit.foodpandaoh.net l1_instant_game_client_SIT_be
 l1sitm.foodpandaoh.net l1_game_client_mobi_SIT_be
 
 #UAT - L1
-l1uat.sgamesuat.com l1_game_client_UAT_be
 l1uatapi.sgamesuat.com l1_sg_api_UAT_be
 l1uatadm.sgamesuat.com l1_admin_site_UAT_be
 l1uatresult.sgamesuat.com l1_game_result_UAT_be
-l1uatm.sgamesuat.com l1_game_client_mobi_UAT_be
 l1guidesuat.sgamesuat.com l1_game_guides_UAT_be
 #l1socceruat.sgamesuat.com nexops_whoami_api_nodes
-l1miniuat.sgamesuat.com l1_instant_game_client_UAT_be
 l1gwuat.sgamesuat.com l1_socket_gateway_UAT_be
 intl1uatapi.sgamesuat.com l1_sg_api_UAT_be
 intl1uatresult.sgamesuat.com l1_game_result_UAT_be
-l1uatkeno.sgamesuat.com l1_game_client_mega_keno_mobi_UAT_be
 
 l1uatdl.foodpandaoh.net pentagon_l1_app_download_site_client_UAT_be
 l1uatkeno.foodpandaoh.net l1_game_client_mega_keno_mobi_UAT_be
