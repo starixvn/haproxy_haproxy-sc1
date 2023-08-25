@@ -1,1 +1,25 @@
 ^/site-67(/.*)?$ pentagon_l1_dragon_tiger_fight_client_LOCAL_path_be
+^/game-client-48(/.*)?$ pentagon_l1_blockchain_baccarat_client_LOCAL_path_be
+^/game-client-111(/.*)?$ pentagon_l1_happy_fish_jackpot_client_LOCAL_path_be
+^/game-client-66(/.*)?$ pentagon_l1_candy_land_client_LOCAL_path_be
+^/game-client-69(/.*)?$ pentagon_l1_blackpink_client_LOCAL_path_be
+^/blackpink(/.*)?$ pentagon_l1_blackpink_service_LOCAL_path_be
+^/game-client-68(/.*)?$ pentagon_l1_mission_impossible_client_LOCAL_path_be
+^/game-client-65(/.*)?$ pentagon_l1_dj_club_client_LOCAL_path_be
+^/site-2(/.*)?$ pentagon_l1_game_client_base_LOCAL_path_be
+^/game-client-199(/.*)?$ pentagon_l1_treasure_island2_client_LOCAL_path_be
+^/game-client-64(/.*)?$ pentagon_l1_magic_forest_client_LOCAL_path_be
+^/game-client-63(/.*)?$ pentagon_l1_happy_fish_client_LOCAL_path_be
+^/game-client-62(/.*)?$ pentagon_l1_fortune_cat_client_LOCAL_path_be
+^/game-client-47/ l1_treasure_island_client_LOCAL_be
+^/game/ l1_game_configuration_service_LOCAL_be
+^/game-client-49/ l1_way_to_goal_client_LOCAL_be
+^/game-client-50/ l1_unbalanced_bigsmall_client_LOCAL_be
+^/game-client-9/ l1_mini_sedie_client_LOCAL_be
+^/game-client-59/ l1_fruit_slot_client_LOCAL_be
+^/game-client-52/ l1_mega_keno_client_LOCAL_be
+^/game-client-60/ l1_fantan_client_LOCAL_be
+^/game-client-61/ l1_win_three_cards_client_LOCAL_be
+^/poc-game-client-2(/.*)?$ pentagon_l1_baccarat_client_test_LOCAL_path_be
+^/poc-game-client-lobby(/.*)?$ pentagon_l1_lobby_test_LOCAL_path_be
+
