@@ -1,3 +1,4 @@
+^/site-71(/.*)?$ pentagon_l1_color_game_client_LOCAL_path_be
 ^/site-67(/.*)?$ pentagon_l1_dragon_tiger_fight_client_LOCAL_path_be
 ^/game-client-48(/.*)?$ pentagon_l1_blockchain_baccarat_client_LOCAL_path_be
 ^/game-client-111(/.*)?$ pentagon_l1_happy_fish_jackpot_client_LOCAL_path_be
@@ -22,4 +23,3 @@
 ^/game-client-61/ l1_win_three_cards_client_LOCAL_be
 ^/poc-game-client-2(/.*)?$ pentagon_l1_baccarat_client_test_LOCAL_path_be
 ^/poc-game-client-lobby(/.*)?$ pentagon_l1_lobby_test_LOCAL_path_be
-
