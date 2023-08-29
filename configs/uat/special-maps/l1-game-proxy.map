@@ -1,3 +1,5 @@
+^/uat/pontoon(/.*)?$ pentagon_l1_pontoon_service_UAT_path_be
+^/sit/pontoon(/.*)?$ pentagon_l1_pontoon_service_SIT_path_be
 ^/sit/dragontigerfight(/.*)?$ pentagon_l1_dragon_tiger_fight_service_SIT_path_be
 ^/sit/transformers(/.*)?$ pentagon_l1_transformers_service_SIT_path_be
 ^/uat/transformers(/.*)?$ pentagon_l1_transformers_service_UAT_path_be

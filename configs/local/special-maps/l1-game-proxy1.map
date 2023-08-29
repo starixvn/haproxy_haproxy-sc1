@@ -1,3 +1,4 @@
+^/pontoon(/.*)?$ pentagon_l1_pontoon_service_LOCAL_1_path_be
 ^/site-71(/.*)?$ pentagon_l1_color_game_client_LOCAL_1_path_be
 ^/transformers(/.*)?$ pentagon_l1_transformers_service_LOCAL_1_path_be
 ^/connectioncheck(/.*)?$ pentagon_l1_connection_auto_test_service_LOCAL_1_path_be
