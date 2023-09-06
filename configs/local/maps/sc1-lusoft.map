@@ -26,7 +26,7 @@ games.luminetsoft.com l1_game_client_LOCAL_be
 api.luminetsoft.com l1_sg_api_LOCAL_be
 auth.luminetsoft.com l1_auth_api_LOCAL_be
 admin.luminetsoft.com l1_admin_site_LOCAL_be
-admin-api.luminetsoft.com l1_admin_api_LOCAL_be
+l1-admin-api.lumigame.com l1_admin_api_LOCAL_be
 gamelobby-simulator.luminetsoft.com l1_game_lobby_simulator_LOCAL_be
 owapi-simulator.luminetsoft.com l1_ow_api_simulator_LOCAL_be
 result.luminetsoft.com l1_game_result_LOCAL_be
