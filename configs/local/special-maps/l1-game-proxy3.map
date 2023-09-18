@@ -1,3 +1,4 @@
+^/crashgame(/.*)?$ pentagon_l1_crash_game_service_LOCAL_3_path_be
 ^/game-client-72(/.*)?$ pentagon_l1_pontoon_client_LOCAL_3_path_be
 ^/pontoon(/.*)?$ pentagon_l1_pontoon_service_LOCAL_3_path_be
 ^/site-71(/.*)?$ pentagon_l1_color_game_client_LOCAL_3_path_be
