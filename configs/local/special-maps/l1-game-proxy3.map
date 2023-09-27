@@ -1,3 +1,4 @@
+^/game-rocketor-demo(/.*)?$ pentagon_l1_game_configuration_service_LOCAL_3_path_be
 ^/spaceflight(/.*)?$ pentagon_l1_space_flight_service_LOCAL_3_path_be
 ^/site-instant-71(/.*)?$ pentagon_l1_instant_color_game_client_LOCAL_3_path_be
 ^/crashgame(/.*)?$ pentagon_l1_crash_game_service_LOCAL_3_path_be
@@ -64,7 +65,6 @@
 ^/bitcoinmaster/ l1_bitcoin_master_service_LOCAL_3_be
 ^/game-client-47/ l1_treasure_island_client_LOCAL_3_be
 ^/waytogoal/	l1_way_to_goal_service_LOCAL_3_be
-^/game/ l1_game_configuration_service_LOCAL_3_be
 ^/game-client-48/ l1_blockchain_baccarat_client_LOCAL_3_be
 ^/game-client-49/ l1_way_to_goal_client_LOCAL_3_be
 ^/unbalancedbigsmall/ l1_unbalanced_bigsmall_service_LOCAL_3_be
