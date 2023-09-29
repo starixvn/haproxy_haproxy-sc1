@@ -1,3 +1,4 @@
+^/game-client-47(/.*)?$ pentagon_l1_treasure_island_client_LOCAL_path_be
 ^/game-client-48(/.*)?$ pentagon_l1_blockchain_baccarat_client_LOCAL_path_be
 ^/site-71(/.*)?$ pentagon_l1_color_game_client_LOCAL_path_be
 ^/site-instant-71(/.*)?$ pentagon_l1_instant_color_game_client_LOCAL_path_be
@@ -14,7 +15,6 @@
 ^/game-client-199(/.*)?$ pentagon_l1_treasure_island2_client_LOCAL_path_be
 ^/game-client-63(/.*)?$ pentagon_l1_happy_fish_client_LOCAL_path_be
 ^/game-client-62(/.*)?$ pentagon_l1_fortune_cat_client_LOCAL_path_be
-^/game-client-47/ l1_treasure_island_client_LOCAL_be
 ^/game/ l1_game_configuration_service_LOCAL_be
 ^/game-client-50/ l1_unbalanced_bigsmall_client_LOCAL_be
 ^/game-client-9/ l1_mini_sedie_client_LOCAL_be
