@@ -5,7 +5,6 @@
 ^/transformers(/.*)?$ pentagon_l1_transformers_service_LOCAL_path_be
 ^/connectioncheck(/.*)?$ pentagon_l1_connection_auto_test_service_LOCAL_path_be
 ^/roundwatcher(/.*)?$ pentagon_l1_round_watcher_service_LOCAL_path_be
-^/game-client-48(/.*)?$ pentagon_l1_blockchain_baccarat_client_LOCAL_path_be
 ^/missionimpossible(/.*)?$ pentagon_l1_mission_impossible_service_LOCAL_path_be
 ^/game-client-111(/.*)?$ pentagon_l1_happy_fish_jackpot_client_LOCAL_path_be
 ^/rtpchecker(/.*)?$ pentagon_l1_rtp_checker_service_LOCAL_path_be

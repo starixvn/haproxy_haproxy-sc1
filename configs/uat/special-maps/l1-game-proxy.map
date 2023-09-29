@@ -111,7 +111,6 @@
 ^/sit/notification/ l1_notification_service_SIT_be
 ^/sit/game-client-47/ l1_treasure_island_client_SIT_be
 ^/sit/blockchainbaccarat/ l1_blockchain_baccarat_service_SIT_be
-^/sit/game-client-48/ l1_blockchain_baccarat_client_SIT_be
 ^/sit/game-client-50/ l1_unbalanced_bigsmall_client_SIT_be
 ^/sit/unbalancedbigsmall/ l1_unbalanced_bigsmall_service_SIT_be
 ^/sit/game/ l1_game_configuration_service_SIT_be
