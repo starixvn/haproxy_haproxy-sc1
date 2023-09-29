@@ -1,5 +1,5 @@
-^/site-instant-71(/.*)?$ pentagon_l1_instant_color_game_client_LOCAL_path_be
 ^/site-71(/.*)?$ pentagon_l1_color_game_client_LOCAL_path_be
+^/site-instant-71(/.*)?$ pentagon_l1_instant_color_game_client_LOCAL_path_be
 ^/site-70(/.*)?$ pentagon_l1_transformers_client_LOCAL_path_be
 ^/site-72(/.*)?$ pentagon_l1_pontoon_client_LOCAL_path_be
 ^/site-67(/.*)?$ pentagon_l1_dragon_tiger_fight_client_LOCAL_path_be
