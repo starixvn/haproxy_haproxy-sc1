@@ -1,9 +1,9 @@
-^/game-client-63(/.*)?$ pentagon_l1_happy_fish_client_LOCAL_path_be
 ^/pontoon(/.*)?$ pentagon_l1_pontoon_service_LOCAL_path_be
 ^/colorgame(/.*)?$ pentagon_l1_color_game_service_LOCAL_path_be
 ^/transformers(/.*)?$ pentagon_l1_transformers_service_LOCAL_path_be
 ^/connectioncheck(/.*)?$ pentagon_l1_connection_auto_test_service_LOCAL_path_be
 ^/roundwatcher(/.*)?$ pentagon_l1_round_watcher_service_LOCAL_path_be
+^/game-client-48(/.*)?$ pentagon_l1_blockchain_baccarat_client_LOCAL_path_be
 ^/missionimpossible(/.*)?$ pentagon_l1_mission_impossible_service_LOCAL_path_be
 ^/game-client-111(/.*)?$ pentagon_l1_happy_fish_jackpot_client_LOCAL_path_be
 ^/rtpchecker(/.*)?$ pentagon_l1_rtp_checker_service_LOCAL_path_be
@@ -22,7 +22,9 @@
 ^/dragontigerfight(/.*)?$ pentagon_l1_dragon_tiger_fight_service_LOCAL_path_be
 ^/lobby-icons(/.*)?$ pentagon_l1_lobby_icons_LOCAL_path_be
 ^/game-client-199(/.*)?$ pentagon_l1_treasure_island2_client_LOCAL_path_be
+^/game-client-64(/.*)?$ pentagon_l1_magic_forest_client_LOCAL_path_be
 ^/vivadzopolicy(/.*)?$ pentagon_l1_vivadzo_policy_service_LOCAL_path_be
+^/game-client-63(/.*)?$ pentagon_l1_happy_fish_client_LOCAL_path_be
 ^/game-client-62(/.*)?$ pentagon_l1_fortune_cat_client_LOCAL_path_be
 ^/poc-game-client-1(/.*)?$ pentagon_l1_dragon_tiger_client_test_LOCAL_path_be
 ^/api1/ nexops_test_services2_be
@@ -65,7 +67,10 @@
 ^/vipsedieclient/ l1_vip_sedie_client_LOCAL_be
 ^/blockchainbaccarat/ l1_blockchain_baccarat_service_LOCAL_be
 ^/notification/ l1_notification_service_LOCAL_be
+^/game-client-47/ l1_treasure_island_client_LOCAL_be
 ^/waytogoal/	l1_way_to_goal_service_LOCAL_be
+^/game/ l1_game_configuration_service_LOCAL_be
+^/game-client-49/ l1_way_to_goal_client_LOCAL_be
 ^/unbalancedbigsmall/ l1_unbalanced_bigsmall_service_LOCAL_be
 ^/game-client-50/ l1_unbalanced_bigsmall_client_LOCAL_be
 ^/game-client-9/ l1_mini_sedie_client_LOCAL_be
