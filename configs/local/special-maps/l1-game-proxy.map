@@ -1,3 +1,4 @@
+^/game-client-63(/.*)?$ pentagon_l1_happy_fish_client_LOCAL_path_be
 ^/game-client-64(/.*)?$ pentagon_l1_magic_forest_client_LOCAL_path_be
 ^/game-client-49(/.*)?$ pentagon_l1_way_to_goal_client_LOCAL_path_be
 ^/pontoon(/.*)?$ pentagon_l1_pontoon_service_LOCAL_path_be
@@ -24,7 +25,6 @@
 ^/lobby-icons(/.*)?$ pentagon_l1_lobby_icons_LOCAL_path_be
 ^/game-client-199(/.*)?$ pentagon_l1_treasure_island2_client_LOCAL_path_be
 ^/vivadzopolicy(/.*)?$ pentagon_l1_vivadzo_policy_service_LOCAL_path_be
-^/game-client-63(/.*)?$ pentagon_l1_happy_fish_client_LOCAL_path_be
 ^/game-client-62(/.*)?$ pentagon_l1_fortune_cat_client_LOCAL_path_be
 ^/poc-game-client-1(/.*)?$ pentagon_l1_dragon_tiger_client_test_LOCAL_path_be
 ^/api1/ nexops_test_services2_be
