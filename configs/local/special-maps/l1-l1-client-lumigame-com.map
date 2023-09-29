@@ -12,7 +12,6 @@
 ^/game-client-65(/.*)?$ pentagon_l1_dj_club_client_LOCAL_path_be
 ^/site-2(/.*)?$ pentagon_l1_game_client_base_LOCAL_path_be
 ^/game-client-199(/.*)?$ pentagon_l1_treasure_island2_client_LOCAL_path_be
-^/game-client-64(/.*)?$ pentagon_l1_magic_forest_client_LOCAL_path_be
 ^/game-client-63(/.*)?$ pentagon_l1_happy_fish_client_LOCAL_path_be
 ^/game-client-62(/.*)?$ pentagon_l1_fortune_cat_client_LOCAL_path_be
 ^/game-client-47/ l1_treasure_island_client_LOCAL_be
