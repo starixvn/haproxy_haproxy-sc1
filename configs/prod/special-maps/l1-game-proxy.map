@@ -64,5 +64,3 @@
 ^/candyland/ l1_candy_land_service_PROD_be
 ^/dragontigerfight/ l1_dragon_tiger_fight_service_PROD_be
 ^/ l1_notification_service_PROD_be
-^/game-client-70/ l1_transformers_client_PROD_path_be
-^/transformers/ l1_transformers_service_PROD_path_be
