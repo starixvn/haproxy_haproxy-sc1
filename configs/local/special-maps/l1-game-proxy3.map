@@ -1,4 +1,4 @@
-^/spaceflight(/.*)?$ pentagon_l1_space_flight_service_LOCAL_3_path_be
+^/spaceflight(/.*)?$ pentagon_l1_spaceflight_service_LOCAL_3_path_be
 ^/site-71(/.*)?$ pentagon_l1_color_game_client_LOCAL_3_path_be
 ^/colorgame(/.*)?$ pentagon_l1_color_game_service_LOCAL_3_path_be
 ^/game(/.*)?$ pentagon_l1_game_configuration_service_LOCAL_3_path_be
