@@ -1,10 +1,10 @@
+^/sit/site-71(/.*)?$ pentagon_l1_color_game_client_SIT_path_be
 ^/sit/game-client-70(/.*)?$ pentagon_l1_transformers_client_SIT_path_be
 ^/uat/game-client-70(/.*)?$ pentagon_l1_transformers_client_UAT_path_be
 ^/sit/site-72(/.*)?$ pentagon_l1_pontoon_client_SIT_path_be
 ^/uat/site-72(/.*)?$ pentagon_l1_pontoon_client_UAT_path_be
 ^/sit/site-67(/.*)?$ pentagon_l1_dragon_tiger_fight_client_SIT_path_be
 ^/uat/site-67(/.*)?$ pentagon_l1_dragon_tiger_fight_client_UAT_path_be
-^/sit/site-71(/.*)?$ pentagon_l1_color_game_client_SIT_path_be
 ^/uat/site-71(/.*)?$ pentagon_l1_color_game_client_UAT_path_be
 ^/uat/game-client-66(/.*)?$ pentagon_l1_candy_land_client_UAT_path_be
 ^/uat/game-client-47(/.*)?$ pentagon_l1_treasure_island_client_UAT_path_be
