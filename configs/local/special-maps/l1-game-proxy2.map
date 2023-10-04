@@ -1,3 +1,4 @@
+^/monitoring(/.*)?$ pentagon_l1_admin_monitoring_site_LOCAL_2_path_be
 ^/game-client-72(/.*)?$ pentagon_l1_pontoon_client_LOCAL_2_path_be
 ^/spaceflight(/.*)?$ pentagon_l1_spaceflight_service_LOCAL_2_path_be
 ^/site-instant-71(/.*)?$ pentagon_l1_instant_color_game_client_LOCAL_2_path_be
@@ -59,7 +60,6 @@
 ^/texasholdempoker/ l1_texas_holdem_poker_service_LOCAL_2_be
 ^/hilo/ l1_hilo_service_LOCAL_2_be
 ^/nightclub/	l1_night_club_service_LOCAL_2_be
-^/monitoring/ l1_admin_monitoring_site_LOCAL_2_be
 ^/treasureisland/ l1_treasure_island_service_LOCAL_2_be
 ^/vipsediewarclient/ l1_vip_sedie_war_client_LOCAL_2_be
 ^/vipsedieclient/ l1_vip_sedie_client_LOCAL_2_be
