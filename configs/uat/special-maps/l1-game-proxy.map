@@ -1,3 +1,4 @@
+^/uat/monitoring(/.*)?$ pentagon_l1_admin_monitoring_site_UAT_path_be
 ^/uat/colorgame(/.*)?$ pentagon_l1_color_game_service_UAT_path_be
 ^/uat/dragontigerfight(/.*)?$ pentagon_l1_dragon_tiger_fight_service_UAT_path_be
 ^/uat/pontoon(/.*)?$ pentagon_l1_pontoon_service_UAT_path_be
@@ -63,7 +64,6 @@
 ^/uat/bitcoinmaster/ l1_bitcoin_master_service_UAT_be
 ^/uat/hilo/ l1_hilo_service_UAT_be
 ^/uat/treasureisland/ l1_treasure_island_service_UAT_be
-^/uat/monitoring/ l1_admin_monitoring_site_UAT_be
 ^/uat/nightclub/ l1_night_club_service_UAT_be
 ^/uat/texasholdempoker/ l1_texas_holdem_poker_service_UAT_be
 ^/uat/notification/ l1_notification_service_UAT_be
