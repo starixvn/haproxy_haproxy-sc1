@@ -1,3 +1,4 @@
+^/game-api(/.*)?$ pentagon_l1_game_api_LOCAL_2_path_be
 ^/monitoring(/.*)?$ pentagon_l1_admin_monitoring_site_LOCAL_2_path_be
 ^/game-client-72(/.*)?$ pentagon_l1_pontoon_client_LOCAL_2_path_be
 ^/spaceflight(/.*)?$ pentagon_l1_spaceflight_service_LOCAL_2_path_be
