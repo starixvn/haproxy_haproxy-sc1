@@ -1,3 +1,4 @@
+^/sit/monitoring(/.*)?$ pentagon_l1_admin_monitoring_site_SIT_path_be
 ^/uat/monitoring(/.*)?$ pentagon_l1_admin_monitoring_site_UAT_path_be
 ^/uat/colorgame(/.*)?$ pentagon_l1_color_game_service_UAT_path_be
 ^/uat/dragontigerfight(/.*)?$ pentagon_l1_dragon_tiger_fight_service_UAT_path_be
@@ -106,7 +107,6 @@
 ^/sit/bitcoinmaster/ l1_bitcoin_master_service_SIT_be
 ^/sit/hilo/ l1_hilo_service_SIT_be
 ^/sit/treasureisland/ l1_treasure_island_service_SIT_be
-^/sit/monitoring/ l1_admin_monitoring_site_SIT_be
 ^/sit/nightclub/ l1_night_club_service_SIT_be
 ^/sit/texasholdempoker/ l1_texas_holdem_poker_service_SIT_be
 ^/sit/notification/ l1_notification_service_SIT_be
