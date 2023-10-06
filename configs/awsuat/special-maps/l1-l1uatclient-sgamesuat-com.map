@@ -1,3 +1,5 @@
+^/sit/site-73(/.*)?$ pentagon_l1_spaceflight_client_AWSSIT_path_be
+^/uat/site-73(/.*)?$ pentagon_l1_spaceflight_client_AWSUAT_path_be
 ^/sit/game-client-70(/.*)?$ pentagon_l1_transformers_client_AWSSIT_path_be
 ^/uat/game-client-70(/.*)?$ pentagon_l1_transformers_client_AWSUAT_path_be
 ^/sit/site-72(/.*)?$ pentagon_l1_pontoon_client_AWSSIT_path_be
