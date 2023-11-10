@@ -1,3 +1,4 @@
+^/user(/.*)?$ pentagon_l1_user_service_AWSDR_path_be
 ^/notification(/.*)?$ pentagon_l1_notification_service_AWSDR_path_be
 ^/game-client-9(/.*)?$ pentagon_l1_mini_sedie_client_AWSDR_path_be
 ^/game(/.*)?$ pentagon_l1_game_configuration_service_AWSDR_path_be
