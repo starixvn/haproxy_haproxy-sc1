@@ -1,3 +1,4 @@
+^/uat/bandarqiuqiu(/.*)?$ pentagon_l1_bandar_qiu_qiu_service_UAT_path_be
 ^/sit/bandarqiuqiu(/.*)?$ pentagon_l1_bandar_qiu_qiu_service_SIT_path_be
 ^/sit/notification(/.*)?$ pentagon_l1_notification_service_SIT_path_be
 ^/sit/monitoring(/.*)?$ pentagon_l1_admin_monitoring_site_SIT_path_be
