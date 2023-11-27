@@ -1,3 +1,4 @@
+^/game-management-service(/.*)?$ pentagon_l1_game_management_service_LOCAL_path_be
 ^/transformers(/.*)?$ pentagon_l1_transformers_service_LOCAL_path_be
 ^/bandarqiuqiu(/.*)?$ pentagon_l1_bandar_qiu_qiu_service_LOCAL_path_be
 ^/monitoring(/.*)?$ pentagon_l1_admin_monitoring_site_LOCAL_path_be
