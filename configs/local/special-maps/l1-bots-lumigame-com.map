@@ -1,4 +1,4 @@
-^/chinese-poker-bot-combine/docs(/.*)?$ pentagon_l1_bots_chinese_poker_bot_combine_LOCAL_path_be
+^/chinese-poker-bot-combine(/.*)?$ pentagon_l1_bots_chinese_poker_bot_combine_LOCAL_path_be
 ^/chinese-poker-bot-probability(/.*)?$ pentagon_l1_chinese_poker_bot_probability_LOCAL_path_be
 ^/chinese-poker-bot-publisher(/.*)?$ pentagon_l1_bots_chinese_poker_bot_publisher_LOCAL_path_be
 ^/chinese-poker-bot-filter(/.*)?$ pentagon_l1_bots_chinese_poker_bot_filter_LOCAL_path_be
