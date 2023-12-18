@@ -1,3 +1,12 @@
+^/minisedie(/.*)?$ pentagon_l1_sedie_multiplay_service_AWSDR_path_be
+^/vsedie(/.*)?$ pentagon_l1_vip_sedie_service_AWSDR_path_be
+^/sicbo(/.*)?$ pentagon_l1_sicbo_service_AWSDR_path_be
+^/sedie(/.*)?$ pentagon_l1_sedie_service_AWSDR_path_be
+^/fishprawncrab(/.*)?$ pentagon_l1_fish_prawn_crab_service_AWSDR_path_be
+^/dragontiger(/.*)?$ pentagon_l1_dragon_tiger_service_AWSDR_path_be
+^/bigsmall(/.*)?$ pentagon_l1_big_small_service_AWSDR_path_be
+^/baccarat(/.*)?$ pentagon_l1_baccarat_service_AWSDR_path_be
+^/blackjack(/.*)?$ pentagon_l1_blackjack_service_AWSDR_path_be
 ^/user(/.*)?$ pentagon_l1_user_service_AWSDR_path_be
 ^/notification(/.*)?$ pentagon_l1_notification_service_AWSDR_path_be
 ^/game-client-9(/.*)?$ pentagon_l1_mini_sedie_client_AWSDR_path_be
