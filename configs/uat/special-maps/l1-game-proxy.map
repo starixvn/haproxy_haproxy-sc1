@@ -1,3 +1,5 @@
+^/sit/game-management-service(/.*)?$ pentagon_l1_game_management_service_SIT_path_be
+^/uat/game-management-service(/.*)?$ pentagon_l1_game_management_service_UAT_path_be
 ^/sit/colorgame(/.*)?$ pentagon_l1_color_game_service_SIT_path_be
 ^/uat/bandarqiuqiu(/.*)?$ pentagon_l1_bandar_qiu_qiu_service_UAT_path_be
 ^/sit/bandarqiuqiu(/.*)?$ pentagon_l1_bandar_qiu_qiu_service_SIT_path_be
