@@ -1,3 +1,5 @@
+^/sit/vipfishprawncrab(/.*)?$ pentagon_l1_vip_fish_prawn_crab_service_SIT_path_be
+^/uat/vipfishprawncrab(/.*)?$ pentagon_l1_vip_fish_prawn_crab_service_UAT_path_be
 ^/sit/spaceflight(/.*)?$ pentagon_l1_spaceflight_service_SIT_path_be
 ^/uat/spaceflight(/.*)?$ pentagon_l1_spaceflight_service_UAT_path_be
 ^/sit/game-management-service(/.*)?$ pentagon_l1_game_management_service_SIT_path_be
@@ -47,7 +49,6 @@
 ^/uat/vsedie/ l1_vip_sedie_service_UAT_be
 ^/uat/specialsedie/ l1_special_sedie_service_UAT_be
 ^/uat/blackjack/ l1_blackjack_service_UAT_be
-^/uat/vipfishprawncrab/ l1_vip_fish_prawn_crab_service_UAT_be
 ^/uat/sicbo/ l1_sicbo_service_UAT_be
 ^/uat/vipbaccarat/ l1_vip_baccarat_service_UAT_be
 ^/uat/vipsediewar/ l1_vip_sedie_war_service_UAT_be
@@ -89,7 +90,6 @@
 ^/sit/vsedie/ l1_vip_sedie_service_SIT_be
 ^/sit/specialsedie/ l1_special_sedie_service_SIT_be
 ^/sit/blackjack/ l1_blackjack_service_SIT_be
-^/sit/vipfishprawncrab/ l1_vip_fish_prawn_crab_service_SIT_be
 ^/sit/sicbo/ l1_sicbo_service_SIT_be
 ^/sit/vipbaccarat/ l1_vip_baccarat_service_SIT_be
 ^/sit/vipsediewar/ l1_vip_sedie_war_service_SIT_be

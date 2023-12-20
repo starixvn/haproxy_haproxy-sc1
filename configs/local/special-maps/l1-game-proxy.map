@@ -40,7 +40,6 @@
 ^/vsedie/ l1_vip_sedie_service_LOCAL_be
 ^/specialsedie/  l1_special_sedie_service_LOCAL_be
 ^/blackjack/ l1_blackjack_service_LOCAL_be
-^/vipfishprawncrab/  l1_vip_fish_prawn_crab_service_LOCAL_be
 ^/sicbo/ l1_sicbo_service_LOCAL_be
 ^/vipbaccarat/ l1_vip_baccarat_service_LOCAL_be
 ^/vipsediewar/ l1_vip_sedie_war_service_LOCAL_be
