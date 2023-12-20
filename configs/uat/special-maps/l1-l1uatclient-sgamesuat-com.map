@@ -1,10 +1,10 @@
+^/sit/site-73(/.*)?$ pentagon_l1_spaceflight_client_SIT_path_be
 ^/sit/game-client-74(/.*)?$ pentagon_l1_one_piece_client_SIT_path_be
 ^/uat/game-client-74(/.*)?$ pentagon_l1_one_piece_client_UAT_path_be
 ^/sit/site-75(/.*)?$ pentagon_l1_bandar_qiu_qiu_client_SIT_path_be
 ^/uat/site-75(/.*)?$ pentagon_l1_bandar_qiu_qiu_client_UAT_path_be
 ^/sit/site-instant-71(/.*)?$ pentagon_l1_instant_color_game_client_SIT_path_be
 ^/uat/site-instant-71(/.*)?$ pentagon_l1_instant_color_game_client_UAT_path_be
-^/sit/site-73(/.*)?$ pentagon_l1_spaceflight_client_SIT_path_be
 ^/uat/site-73(/.*)?$ pentagon_l1_spaceflight_client_UAT_path_be
 ^/sit/game-client-72(/.*)?$ pentagon_l1_pontoon_client_SIT_path_be
 ^/uat/game-client-72(/.*)?$ pentagon_l1_pontoon_client_UAT_path_be
