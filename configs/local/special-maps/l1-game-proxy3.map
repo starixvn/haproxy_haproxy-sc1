@@ -1,5 +1,5 @@
-^/chineseblackjack(/.*)?$ pentagon_l1_chinese_blackjack_servive_LOCAL_3_path_be
 ^/game-client-77/versions.json(/.*)?$ pentagon_l1_chinese_blackjack_client_LOCAL_3_path_be
+^/chineseblackjack(/.*)?$ pentagon_l1_chinese_blackjack_servive_LOCAL_3_path_be
 ^/onepiece(/.*)?$ pentagon_l1_one_piece_service_LOCAL_3_path_be
 ^/transformers(/.*)?$ pentagon_l1_transformers_service_LOCAL_3_path_be
 ^/bandarqiuqiu(/.*)?$ pentagon_l1_bandar_qiu_qiu_service_LOCAL_3_path_be
