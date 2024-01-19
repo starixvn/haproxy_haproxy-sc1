@@ -1,3 +1,7 @@
+^/game-client-76(/.*)?$ pentagon_l1_dragon_ball_client_LOCAL_3_path_be
+^/dragonball(/.*)?$ pentagon_l1_dragon_ball_service_LOCAL_3_path_be
+^/game-client-77(/.*)?$ pentagon_l1_chinese_blackjack_client_LOCAL_3_path_be
+^/chineseblackjack(/.*)?$ pentagon_l1_chinese_blackjack_service_LOCAL_3_path_be
 ^/onepiece(/.*)?$ pentagon_l1_one_piece_service_LOCAL_3_path_be
 ^/transformers(/.*)?$ pentagon_l1_transformers_service_LOCAL_3_path_be
 ^/bandarqiuqiu(/.*)?$ pentagon_l1_bandar_qiu_qiu_service_LOCAL_3_path_be
