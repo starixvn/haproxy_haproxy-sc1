@@ -1,3 +1,4 @@
+^/game-client-70(/.*)?$ pentagon_l1_transformers_client_LOCAL_path_be
 ^/game-client-76(/.*)?$ pentagon_l1_dragon_ball_client_LOCAL_path_be
 ^/game-client-77(/.*)?$ pentagon_l1_chinese_blackjack_client_LOCAL_path_be
 ^/mongo-express(/.*)?$ pentagon_l1_mongo_express_service_LOCAL_path_be
