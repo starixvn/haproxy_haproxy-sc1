@@ -1,3 +1,4 @@
+^/uat/chineseblackjack(/.*)?$ pentagon_l1_chinese_blackjack_service_UAT_path_be
 ^/sit/dragonball(/.*)?$ pentagon_l1_dragon_ball_service_SIT_path_be
 ^/uat/dragonball(/.*)?$ pentagon_l1_dragon_ball_service_UAT_path_be
 ^/sit/onepiece(/.*)?$ pentagon_l1_one_piece_service_SIT_path_be
