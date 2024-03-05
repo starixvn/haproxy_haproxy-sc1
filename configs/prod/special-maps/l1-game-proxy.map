@@ -78,3 +78,5 @@
 ^/dragontigerfight/ l1_dragon_tiger_fight_service_PROD_be
 ^/colorgame/ l1_color_game_service_PROD_be
 ^/ pentagon_l1_notification_service_PROD_path_be
+^/game-client-77/ l1_chinese_blackjack_client_PROD_be
+^/chineseblackjack/ l1_chinese_blackjack_service_PROD_be
