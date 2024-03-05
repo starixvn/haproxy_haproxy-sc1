@@ -29,8 +29,6 @@
 ^/uat/djclub(/.*)?$ pentagon_l1_dj_club_service_UAT_path_be
 ^/sit/missionimpossible(/.*)?$ pentagon_l1_mission_impossible_service_SIT_path_be
 ^/uat/missionimpossible(/.*)?$ pentagon_l1_mission_impossible_service_UAT_path_be
-^/sit/game-client-111(/.*)?$ pentagon_l1_happy_fish_jackpot_client_SIT_path_be
-^/uat/game-client-111(/.*)?$ pentagon_l1_happy_fish_jackpot_client_UAT_path_be
 ^/sit/blackpink(/.*)?$ pentagon_l1_blackpink_service_SIT_path_be
 ^/uat/blackpink(/.*)?$ pentagon_l1_blackpink_service_UAT_path_be
 ^/sit/game-client-66(/.*)?$ pentagon_l1_candy_land_client_SIT_path_be
@@ -93,7 +91,6 @@
 ^/uat/ l1_game_server_UAT_be
 
 ##SIT
-^/sit/main/ l1_game_server_SIT_be
 ^/sit/sedie/ l1_sedie_service_SIT_be
 ^/sit/vsedie/ l1_vip_sedie_service_SIT_be
 ^/sit/specialsedie/ l1_special_sedie_service_SIT_be
@@ -127,10 +124,8 @@
 ^/sit/texasholdempoker/ l1_texas_holdem_poker_service_SIT_be
 ^/sit/game-client-47/ l1_treasure_island_client_SIT_be
 ^/sit/blockchainbaccarat/ l1_blockchain_baccarat_service_SIT_be
-^/sit/game-client-48/ l1_blockchain_baccarat_client_SIT_be
 ^/sit/game-client-50/ l1_unbalanced_bigsmall_client_SIT_be
 ^/sit/unbalancedbigsmall/ l1_unbalanced_bigsmall_service_SIT_be
-^/sit/game/ l1_game_configuration_service_SIT_be
 ^/sit/waytogoal/ l1_way_to_goal_service_SIT_be
 ^/sit/game-client-49/ l1_way_to_goal_client_SIT_be
 ^/sit/game-client-9/ l1_mini_sedie_client_SIT_be
