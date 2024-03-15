@@ -1,3 +1,4 @@
+^/game-client-52(/.*)?$ pentagon_l1_mega_keno_client_LOCAL_2_path_be
 ^/site-78(/.*)?$ pentagon_l1_football_dice_client_LOCAL_2_path_be
 ^/footballdice(/.*)?$ pentagon_l1_football_dice_service_LOCAL_2_path_be
 ^/game-client-76(/.*)?$ pentagon_l1_dragon_ball_client_LOCAL_2_path_be
@@ -89,7 +90,6 @@
 ^/game-client-9/ l1_mini_sedie_client_LOCAL_2_be
 ^/game-client-59/ l1_fruit_slot_client_LOCAL_2_be
 ^/fruitslot/ l1_fruit_slot_service_LOCAL_2_be
-^/game-client-52/ l1_mega_keno_client_LOCAL_2_be
 ^/fantan/ l1_fantan_service_LOCAL_2_be
 ^/game-client-60/ l1_fantan_client_LOCAL_2_be
 ^/fortunecat/ l1_fortune_cat_service_LOCAL_2_be
