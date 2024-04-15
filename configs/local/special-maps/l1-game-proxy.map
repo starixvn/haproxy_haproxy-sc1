@@ -1,3 +1,4 @@
+^/game-client-79(/.*)?$ pentagon_l1_football_slot_client_LOCAL_path_be
 ^/footballslot(/.*)?$ pentagon_l1_football_slot_service_LOCAL_path_be
 ^/footballdice(/.*)?$ pentagon_l1_football_dice_service_LOCAL_path_be
 ^/game-management-service(/.*)?$ pentagon_l1_game_management_service_LOCAL_path_be
