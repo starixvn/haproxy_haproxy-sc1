@@ -1,3 +1,4 @@
+^/uat/game-client-79(/.*)?$ pentagon_l1_football_slot_client_UAT_path_be
 ^/uat/site-78(/.*)?$ pentagon_l1_football_dice_client_UAT_path_be
 ^/sit/site-78(/.*)?$ pentagon_l1_football_dice_client_SIT_path_be
 ^/uat/game(/.*)?$ pentagon_l1_game_configuration_service_UAT_path_be
