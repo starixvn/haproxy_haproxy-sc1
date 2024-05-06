@@ -1,3 +1,4 @@
+^/chinese-poker-bot-blend(/.*)?$ pentagon_l1_bots_chinese_poker_bot_blend_LOCAL_path_be
 ^/chinese-poker-bot-tools(/.*)?$ pentagon_l1_bots_chinese_poker_tool_LOCAL_path_be
 ^/chinese-poker-bot-simple(/.*)?$ pentagon_l1_bots_chinese_poker_bot_simple_LOCAL_path_be
 ^/chinese-poker-bot-rust(/.*)?$ pentagon_l1_bots_chinese_poker_bot_rust_LOCAL_path_be
