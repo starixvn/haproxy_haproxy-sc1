@@ -1,3 +1,4 @@
+l1dr.sgamesuat.com pentagon_l1_game_client_AWSDR_be
 l1drgw.sgamesuat.com pentagon_l1_socket_gateway_AWSDR_be
 l1drapi.sgamesuat.com pentagon_l1_sg_api_AWSDR_be
 l1drresult.sgamesuat.com pentagon_l1_game_result_AWSDR_be
@@ -6,7 +7,6 @@ l1drguides.sgamesuat.com pentagon_l1_game_guides_AWSDR_be
 l1drmini.sgamesuat.com pentagon_l1_instant_game_client_AWSDR_be
 l1drm.sgamesuat.com pentagon_l1_game_client_mobi_AWSDR_be
 l1drkeno.sgamesuat.com pentagon_l1_game_client_mega_keno_mobi_AWSDR_be
-l1dr.sgamesuat.com pentagon_l1_game_client_AWSDR_be
 #SC1
 sc1-proxy.sportsfun.app l1_api_proxy_host
 sc1-games.sportsfun.app l1_game_client_nodes
