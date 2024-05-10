@@ -1,3 +1,4 @@
+^/gnsitarchive/mongoexpress(/.*)?$ pentagon_l1_mongo_express_service_SIT_3_path_be
 ^/gnsit/mongoexpress(/.*)?$ pentagon_l1_mongo_express_service_SIT_2_path_be
 ^/sit/footballslot(/.*)?$ pentagon_l1_football_slot_service_SIT_path_be
 ^/uat/footballslot(/.*)?$ pentagon_l1_football_slot_service_UAT_path_be
