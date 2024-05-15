@@ -1,3 +1,4 @@
+^/game-client-79(/.*)?$ pentagon_l1_football_slot_client_PROD_path_be
 ^/footballslot(/.*)?$ pentagon_l1_football_slot_service_PROD_path_be
 ^/site-73(/.*)?$ pentagon_l1_spaceflight_client_PROD_path_be
 ^/spaceflight(/.*)?$ pentagon_l1_spaceflight_service_PROD_path_be
