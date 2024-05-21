@@ -1,3 +1,4 @@
+^/site-instant-80(/.*)?$ pentagon_l1_instant_coin_toss_client_LOCAL_path_be
 ^/game-client-79(/.*)?$ pentagon_l1_football_slot_client_LOCAL_path_be
 ^/baccaratx(/.*)?$ pentagon_l1_baccaratx_service_LOCAL_path_be
 ^/cointoss(/.*)?$ pentagon_l1_coin_toss_service_LOCAL_path_be
