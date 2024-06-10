@@ -1,10 +1,10 @@
+^/pusoy-bot-probability(/.*)?$ pentagon_l1_chinese_poker_bot_probability_LOCAL_path_be
 ^/chinese-poker-service-rust(/.*)?$ pentagon_l1_bots_chinese_poker_service_rust_LOCAL_path_be
 ^/chinese-poker-bot-blend-2(/.*)?$ pentagon_l1_bots_chinese_poker_bot_blend_LOCAL_2_path_be
 ^/chinese-poker-bot-blend(/.*)?$ pentagon_l1_bots_chinese_poker_bot_blend_LOCAL_path_be
 ^/chinese-poker-bot-tools(/.*)?$ pentagon_l1_bots_chinese_poker_tool_LOCAL_path_be
 ^/chinese-poker-bot-simple(/.*)?$ pentagon_l1_bots_chinese_poker_bot_simple_LOCAL_path_be
 ^/chinese-poker-bot-rust(/.*)?$ pentagon_l1_bots_chinese_poker_bot_rust_LOCAL_path_be
-^/chinese-poker-bot-probability(/.*)?$ pentagon_l1_chinese_poker_bot_probability_LOCAL_path_be
 ^/chinese-poker-bot-pick(/.*)?$ pentagon_l1_bots_chinese_poker_bot_picke_LOCAL_path_be
 ^/chinese-poker-bot-cd(/.*)?$ pentagon_l1_bots_chinese_poker_bot_cd_LOCAL_path_be
 ^/chinese-poker-bot-combine(/.*)?$ pentagon_l1_bots_chinese_poker_bot_combine_LOCAL_path_be
