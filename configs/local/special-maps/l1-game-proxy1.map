@@ -1,3 +1,4 @@
+^/site-81(/.*)?$ pentagon_l1_bac81_client_LOCAL_1_path_be
 ^/shared-resources(/.*)?$ pentagon_l1_shared_client_resources_LOCAL_1_path_be
 ^/site-instant-80(/.*)?$ pentagon_l1_instant_coin_toss_client_LOCAL_1_path_be
 ^/game-client-79(/.*)?$ pentagon_l1_football_slot_client_LOCAL_1_path_be
