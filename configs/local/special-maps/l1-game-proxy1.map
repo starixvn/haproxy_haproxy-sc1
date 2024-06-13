@@ -1,3 +1,4 @@
+^/game-client-80(/.*)?$ pentagon_l1_mini_coin_toss_client_LOCAL_1_path_be
 ^/socket-monitor(/.*)?$ pentagon_l1_socket_monitor_LOCAL_1_path_be
 ^/site-81(/.*)?$ pentagon_l1_bac81_client_LOCAL_1_path_be
 ^/shared-resources(/.*)?$ pentagon_l1_shared_client_resources_LOCAL_1_path_be
