@@ -1,8 +1,8 @@
+^/site-81(/.*)?$ pentagon_l1_bac81_client_LOCAL_3_path_be
 ^/pusoy(/.*)?$ pentagon_l1_pusoy_service_LOCAL_3_path_be
 ^/site-instant-80(/.*)?$ pentagon_l1_instant_coin_toss_client_LOCAL_3_path_be
 ^/footballcointoss(/.*)?$ pentagon_l1_football_coin_toss_service_LOCAL_3_path_be
 ^/game-client-80(/.*)?$ pentagon_l1_mini_coin_toss_client_LOCAL_3_path_be
-^/site-81(/.*)?$ pentagon_l1_bac81_client_LOCAL_3_path_be
 ^/shared-resources(/.*)?$ pentagon_l1_shared_client_resources_LOCAL_3_path_be
 ^/game-client-79(/.*)?$ pentagon_l1_football_slot_client_LOCAL_3_path_be
 ^/baccaratx(/.*)?$ pentagon_l1_baccaratx_service_LOCAL_3_path_be
