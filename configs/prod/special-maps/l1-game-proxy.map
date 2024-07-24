@@ -1,3 +1,4 @@
+^/game-client-70(/.*)?$ pentagon_l1_transformers_client_PROD_path_be
 ^/site-instant-93(/.*)?$ pentagon_l1_instant_fb_coin_toss_client_PROD_path_be
 ^/footballcointoss(/.*)?$ pentagon_l1_football_coin_toss_service_PROD_path_be
 ^/game-client-80(/.*)?$ pentagon_l1_mini_coin_toss_client_PROD_path_be
@@ -21,7 +22,6 @@
 ^/notification(/.*)?$ pentagon_l1_notification_service_PROD_path_be
 ^/pontoon(/.*)?$ pentagon_l1_pontoon_service_PROD_path_be
 ^/game-client-72(/.*)?$ pentagon_l1_pontoon_client_PROD_path_be
-^/game-client-70(/.*)?$ pentagon_l1_transformers_client_PROD_path_be
 ^/transformers(/.*)?$ pentagon_l1_transformers_service_PROD_path_be
 ^/site-67(/.*)?$ pentagon_l1_dragon_tiger_fight_client_PROD_path_be
 ^/sedie/ l1_sedie_service_PROD_be

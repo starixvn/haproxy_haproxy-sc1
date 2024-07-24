@@ -1,3 +1,4 @@
+^/game-client-70(/.*)?$ pentagon_l1_transformers_client_LOCAL_1_path_be
 ^/site-81(/.*)?$ pentagon_l1_bac81_client_LOCAL_1_path_be
 ^/pusoy(/.*)?$ pentagon_l1_pusoy_service_LOCAL_1_path_be
 ^/site-instant-93(/.*)?$ pentagon_l1_instant_fb_coin_toss_client_LOCAL_1_path_be
@@ -14,7 +15,6 @@
 ^/game-client-52(/.*)?$ pentagon_l1_mega_keno_client_LOCAL_1_path_be
 ^/footballdice(/.*)?$ pentagon_l1_football_dice_service_LOCAL_1_path_be
 ^/game-client-76(/.*)?$ pentagon_l1_dragon_ball_client_LOCAL_1_path_be
-^/game-client-70(/.*)?$ pentagon_l1_transformers_client_LOCAL_1_path_be
 ^/game-management-service(/.*)?$ pentagon_l1_game_management_service_LOCAL_1_path_be
 ^/dragonball(/.*)?$ pentagon_l1_dragon_ball_service_LOCAL_1_path_be
 ^/game-client-77(/.*)?$ pentagon_l1_chinese_blackjack_client_LOCAL_1_path_be
