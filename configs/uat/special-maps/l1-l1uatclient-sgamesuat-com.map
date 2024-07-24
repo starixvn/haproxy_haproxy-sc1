@@ -1,3 +1,4 @@
+^/uat/game-client-47(/.*)?$ pentagon_l1_treasure_island_client_UAT_path_be
 ^/uat/game-client-70(/.*)?$ pentagon_l1_transformers_client_UAT_path_be
 ^/uat/site-81(/.*)?$ pentagon_l1_bac81_client_UAT_path_be
 ^/sit/game-client-80(/.*)?$ pentagon_l1_mini_coin_toss_client_SIT_path_be
@@ -27,7 +28,6 @@
 ^/uat/site-67(/.*)?$ pentagon_l1_dragon_tiger_fight_client_UAT_path_be
 ^/uat/site-71(/.*)?$ pentagon_l1_color_game_client_UAT_path_be
 ^/uat/game-client-66(/.*)?$ pentagon_l1_candy_land_client_UAT_path_be
-^/uat/game-client-47(/.*)?$ pentagon_l1_treasure_island_client_UAT_path_be
 ^/uat/game-client-50(/.*)?$ pentagon_l1_unbalanced_bigsmall_client_UAT_path_be
 ^/uat/game-client-9(/.*)?$ pentagon_l1_mini_sedie_client_UAT_path_be
 ^/uat/game-client-52(/.*)?$ pentagon_l1_mega_keno_client_UAT_path_be
