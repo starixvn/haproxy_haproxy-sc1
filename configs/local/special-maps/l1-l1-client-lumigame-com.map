@@ -1,5 +1,5 @@
-^/game-client-47(/.*)?$ pentagon_l1_treasure_island_client_LOCAL_path_be
 ^/game-client-70(/.*)?$ pentagon_l1_transformers_client_LOCAL_path_be
+^/game-client-47(/.*)?$ pentagon_l1_treasure_island_client_LOCAL_path_be
 ^/site-81(/.*)?$ pentagon_l1_bac81_client_LOCAL_path_be
 ^/game-client-80(/.*)?$ pentagon_l1_mini_coin_toss_client_LOCAL_path_be
 ^/shared-resources(/.*)?$ pentagon_l1_shared_client_resources_LOCAL_path_be

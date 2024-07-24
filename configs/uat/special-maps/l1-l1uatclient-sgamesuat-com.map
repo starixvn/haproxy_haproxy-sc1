@@ -1,5 +1,5 @@
-^/uat/game-client-47(/.*)?$ pentagon_l1_treasure_island_client_UAT_path_be
 ^/uat/game-client-70(/.*)?$ pentagon_l1_transformers_client_UAT_path_be
+^/uat/game-client-47(/.*)?$ pentagon_l1_treasure_island_client_UAT_path_be
 ^/uat/site-81(/.*)?$ pentagon_l1_bac81_client_UAT_path_be
 ^/sit/game-client-80(/.*)?$ pentagon_l1_mini_coin_toss_client_SIT_path_be
 ^/uat/game-client-80(/.*)?$ pentagon_l1_mini_coin_toss_client_UAT_path_be
