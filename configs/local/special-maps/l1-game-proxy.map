@@ -1,3 +1,4 @@
+^/site-94(/.*)?$ pentagon_l1_pusoy_client_LOCAL_path_be
 ^/footballcointoss(/.*)?$ pentagon_l1_football_coin_toss_service_LOCAL_path_be
 ^/socket-monitor(/.*)?$ pentagon_l1_socket_monitor_LOCAL_path_be
 ^/tolgeeauto(/.*)?$ pentagon_l1_tolgee_auto_LOCAL_path_be
