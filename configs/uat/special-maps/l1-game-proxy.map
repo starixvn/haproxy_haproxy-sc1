@@ -1,3 +1,4 @@
+^/sg-oddsfeed-poc(/.*)?$ pentagon_l1_sg_oddsfeed_poc_SIT_path_be
 ^/sit/baccaratx(/.*)?$ pentagon_l1_baccaratx_service_SIT_path_be
 ^/uat/baccaratx(/.*)?$ pentagon_l1_baccaratx_service_UAT_path_be
 ^/sit/footballcointoss(/.*)?$ pentagon_l1_football_coin_toss_service_SIT_path_be
