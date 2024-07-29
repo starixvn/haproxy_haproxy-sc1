@@ -1,3 +1,4 @@
+m.sabagames.io pentagon_l1_game_client_mobi_SIT_2_be
 l1sitauth.sgamesuat.com l1_auth_api_SIT_be
 l1uatauth.sgamesuat.com l1_auth_api_UAT_be
 uat2.com pentagon_l1_website1_UAT_be
@@ -50,7 +51,6 @@ www.saba.games pentagon_l1_info_site_client_SIT_be
 
 demo.sabagames.io l1_game_client_SIT_be
 api.sabagames.io l1_sg_api_SIT_be
-m.sabagames.io l1_game_client_mobi_SIT_be
 guides.sabagames.io l1_game_guides_SIT_be
 mini.sabagames.io l1_instant_game_client_SIT_be
 gw.sabagames.io l1_socket_gateway_SIT_be
