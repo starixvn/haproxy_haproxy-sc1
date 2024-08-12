@@ -1,3 +1,4 @@
+^/site-81(/.*)?$ pentagon_l1_bac81_client_PROD_path_be
 ^/baccaratx(/.*)?$ pentagon_l1_baccaratx_service_PROD_path_be
 ^/game-client-70(/.*)?$ pentagon_l1_transformers_client_PROD_path_be
 ^/site-instant-93(/.*)?$ pentagon_l1_instant_fb_coin_toss_client_PROD_path_be
