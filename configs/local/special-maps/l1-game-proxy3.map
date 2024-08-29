@@ -1,3 +1,4 @@
+^/karakrus(/.*)?$ pentagon_l1_kara_krus_service_LOCAL_3_path_be
 ^/site-95(/.*)?$ pentagon_l1_sedie3_client_LOCAL_3_path_be
 ^/sedie3(/.*)?$ pentagon_l1_sedie3_service_LOCAL_3_path_be
 ^/site-94(/.*)?$ pentagon_l1_pusoy_client_LOCAL_3_path_be
