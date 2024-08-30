@@ -1,3 +1,4 @@
+^/site-96(/.*)?$ pentagon_l1_karakrus_client_LOCAL_1_path_be
 ^/karakrus(/.*)?$ pentagon_l1_kara_krus_service_LOCAL_1_path_be
 ^/site-95(/.*)?$ pentagon_l1_sedie3_client_LOCAL_1_path_be
 ^/sedie-client-demo(/.*)?$ pentagon_l1_sedie_client_demo_LOCAL_1_path_be
