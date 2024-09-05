@@ -1,3 +1,5 @@
+^/sit/game-client-81(/.*)?$ pentagon_l1_lobby_bac81_client_SIT_path_be
+^/uat/game-client-81(/.*)?$ pentagon_l1_lobby_bac81_client_UAT_path_be
 ^/sit/site-95(/.*)?$ pentagon_l1_sedie3_client_SIT_path_be
 ^/uat/site-95(/.*)?$ pentagon_l1_sedie3_client_UAT_path_be
 ^/uat/game-client-70(/.*)?$ pentagon_l1_transformers_client_UAT_path_be
