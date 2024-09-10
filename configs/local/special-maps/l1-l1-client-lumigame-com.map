@@ -1,3 +1,4 @@
+^/site-84(/.*)?$ pentagon_l1_bac84_client_LOCAL_path_be
 ^/game-client-81(/.*)?$ pentagon_l1_lobby_bac81_client_LOCAL_path_be
 ^/site-95(/.*)?$ pentagon_l1_sedie3_client_LOCAL_path_be
 ^/site-96(/.*)?$ pentagon_l1_karakrus_client_LOCAL_path_be
