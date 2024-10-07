@@ -1,3 +1,4 @@
+^/shared-resources(/.*)?$ pentagon_l1_shared_client_resources_PROD_path_be
 ^/site-96(/.*)?$ pentagon_l1_karakrus_client_PROD_path_be
 ^/karakrus(/.*)?$ pentagon_l1_kara_krus_service_PROD_path_be
 ^/site-95(/.*)?$ pentagon_l1_sedie3_client_PROD_path_be
