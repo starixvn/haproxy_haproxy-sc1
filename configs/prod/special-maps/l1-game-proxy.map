@@ -1,3 +1,4 @@
+^/site-83(/.*)?$ pentagon_l1_bac83_client_PROD_path_be
 ^/site-82(/.*)?$ pentagon_l1_bac82_client_PROD_path_be
 ^/site-101(/.*)?$ pentagon_l1_bac101_client_PROD_path_be
 ^/site-100(/.*)?$ pentagon_l1_bac100_client_PROD_path_be
