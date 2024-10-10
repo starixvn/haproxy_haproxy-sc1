@@ -1,3 +1,4 @@
+^/pusoy(/.*)?$ pentagon_l1_pusoy_service_PROD_path_be
 ^/site-98(/.*)?$ pentagon_l1_bac98_client_PROD_path_be
 ^/site-97(/.*)?$ pentagon_l1_bac97_client_PROD_path_be
 ^/site-92(/.*)?$ pentagon_l1_bac92_client_PROD_path_be
