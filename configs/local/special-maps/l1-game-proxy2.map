@@ -1,3 +1,4 @@
+^/7up7down(/.*)?$ pentagon_l1_7up7down_service_LOCAL_2_path_be
 ^/shared-resources(/.*)?$ pentagon_l1_shared_client_resources_LOCAL_2_path_be
 ^/pusoy(/.*)?$ pentagon_l1_pusoy_service_LOCAL_2_path_be
 ^/site-98(/.*)?$ pentagon_l1_bac98_client_LOCAL_2_path_be
