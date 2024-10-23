@@ -1,5 +1,5 @@
 ^/game-client-103(/.*)?$ pentagon_l1_mini_seven_up_down_client_LOCAL_3_path_be
-^/sevenupdown(/.*)?$ pentagon_l1_7up7down_service_LOCAL_3_path_be
+^/sevenupdown(/.*)?$ pentagon_l1_sevenupdown_service_LOCAL_3_path_be
 ^/site-98(/.*)?$ pentagon_l1_bac98_client_LOCAL_3_path_be
 ^/site-84(/.*)?$ pentagon_l1_bac84_client_LOCAL_3_path_be
 ^/site-95(/.*)?$ pentagon_l1_sedie3_client_LOCAL_3_path_be
