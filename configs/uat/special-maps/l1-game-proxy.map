@@ -1,3 +1,5 @@
+^/sit/sevenupdown(/.*)?$ pentagon_l1_sevenupdown_service_SIT_path_be
+^/uat/sevenupdown(/.*)?$ pentagon_l1_sevenupdown_service_UAT_path_be
 ^/sit/pusoy(/.*)?$ pentagon_l1_pusoy_service_SIT_path_be
 ^/uat/pusoy(/.*)?$ pentagon_l1_pusoy_service_UAT_path_be
 ^/sit/karakrus(/.*)?$ pentagon_l1_kara_krus_service_SIT_path_be
