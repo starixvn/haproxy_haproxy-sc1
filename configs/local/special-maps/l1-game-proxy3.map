@@ -1,5 +1,5 @@
+^/marblefootball(/.*)?$ pentagon_l1_marblefootball_service_LOCAL_3_path_be
 ^/game-client-103(/.*)?$ pentagon_l1_mini_seven_up_down_client_LOCAL_3_path_be
-^/marble-football(/.*)?$ pentagon_l1_marblefootball_service_LOCAL_3_path_be
 ^/game-client-93(/.*)?$ pentagon_l1_mini_football_coin_toss_client_LOCAL_3_path_be
 ^/vipfishprawncrab(/.*)?$ pentagon_l1_vip_fish_prawn_crab_service_LOCAL_3_path_be
 ^/game-client-102(/.*)?$ pentagon_l1_lobby_baccarat_client_LOCAL_3_path_be
