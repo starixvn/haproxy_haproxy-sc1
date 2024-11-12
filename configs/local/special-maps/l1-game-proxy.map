@@ -13,7 +13,6 @@
 ^/game-management-service(/.*)?$ pentagon_l1_game_management_service_LOCAL_path_be
 ^/dragonball(/.*)?$ pentagon_l1_dragon_ball_service_LOCAL_path_be
 ^/chineseblackjack(/.*)?$ pentagon_l1_chinese_blackjack_service_LOCAL_path_be
-^/vipfishprawncrab(/.*)?$ pentagon_l1_vip_fish_prawn_crab_service_LOCAL_1_path_be
 ^/vipfishprawncrab(/.*)?$ pentagon_l1_vip_fish_prawn_crab_service_LOCAL_path_be
 ^/onepiece(/.*)?$ pentagon_l1_one_piece_service_LOCAL_path_be
 ^/transformers(/.*)?$ pentagon_l1_transformers_service_LOCAL_path_be
