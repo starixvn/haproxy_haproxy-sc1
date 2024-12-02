@@ -1,3 +1,4 @@
+^/christmascrash(/.*)?$ pentagon_l1_christmas_crash_service_LOCAL_2_path_be
 ^/game-client-29(/.*)?$ pentagon_l1_four_guardians_client_LOCAL_2_path_be
 ^/game-client-38(/.*)?$ pentagon_l1_heroes_legend_client_LOCAL_2_path_be
 ^/livepagegateway(/.*)?$ pentagon_l1_live_page_gateway_LOCAL_2_path_be
