@@ -1,3 +1,5 @@
+^/sit/christmascrash(/.*)?$ pentagon_l1_christmas_crash_service_SIT_path_be
+^/uat/christmascrash(/.*)?$ pentagon_l1_christmas_crash_service_UAT_path_be
 ^/sit/sevenupdown(/.*)?$ pentagon_l1_sevenupdown_service_SIT_path_be
 ^/uat/sevenupdown(/.*)?$ pentagon_l1_sevenupdown_service_UAT_path_be
 ^/sit/pusoy(/.*)?$ pentagon_l1_pusoy_service_SIT_path_be
