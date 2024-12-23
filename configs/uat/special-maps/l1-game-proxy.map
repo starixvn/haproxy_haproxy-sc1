@@ -2,8 +2,6 @@
 ^/uat/livepagegateway(/.*)?$ pentagon_l1_live_page_gateway_UAT_path_be
 ^/sit/livepageuser(/.*)?$ pentagon_l1_livepage_user_service_SIT_path_be
 ^/uat/livepageuser(/.*)?$ pentagon_l1_livepage_user_service_UAT_path_be
-^/sit/marblefootball(/.*)?$ pentagon_l1_marblefootball_service_SIT_path_be
-^/uat/marblefootball(/.*)?$ pentagon_l1_marblefootball_service_UAT_path_be
 ^/sit/christmascrash(/.*)?$ pentagon_l1_christmas_crash_service_SIT_path_be
 ^/uat/christmascrash(/.*)?$ pentagon_l1_christmas_crash_service_UAT_path_be
 ^/sit/sevenupdown(/.*)?$ pentagon_l1_sevenupdown_service_SIT_path_be
