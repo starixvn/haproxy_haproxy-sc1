@@ -1,3 +1,4 @@
+^/site-instant-80(/.*)?$ pentagon_l1_instant_coin_toss_client_LOCAL_path_be
 ^/site-instant-93(/.*)?$ pentagon_l1_instant_fb_coin_toss_client_LOCAL_path_be
 ^/site-107(/.*)?$ pentagon_l1_goldentree_client_LOCAL_path_be
 ^/game-client-29(/.*)?$ pentagon_l1_four_guardians_client_LOCAL_path_be
