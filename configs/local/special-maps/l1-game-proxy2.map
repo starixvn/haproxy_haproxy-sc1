@@ -1,4 +1,4 @@
-^/tapfortune(/.*)?$ pentagon_l1_tapfortune_service_LOCAL_2_path_be
+^/tapfortune(/.*)?$ pentagon_l1_tap_fortune_service_LOCAL_2_path_be
 ^/site-107(/.*)?$ pentagon_l1_goldentree_client_LOCAL_2_path_be
 ^/site-104(/.*)?$ pentagon_l1_marble_football_client_LOCAL_2_path_be
 ^/game-client-29(/.*)?$ pentagon_l1_four_guardians_client_LOCAL_2_path_be
