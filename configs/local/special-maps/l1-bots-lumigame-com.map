@@ -1,5 +1,5 @@
-^/pusoy-bots-sai(/.*)?$ pentagon_l1_pusoy_bots_sai_LOCAL_path_be
 ^/pusoy-service-demo-node(/.*)?$ pentagon_l1_bots_demo_pusoy_nodejs_LOCAL_path_be
+^/pusoy-bots-sai(/.*)?$ pentagon_l1_pusoy_bots_sai_LOCAL_path_be
 ^/pusoy-service-rust(/.*)?$ pentagon_l1_bots_chinese_poker_service_rust_LOCAL_path_be
 ^/pusoy-game-service(/.*)?$ pentagon_l1_bots_chinese_poker_game_service_LOCAL_path_be
 ^/pusoy-bot-simple(/.*)?$ pentagon_l1_bots_chinese_poker_bot_simple_LOCAL_path_be
