@@ -1,5 +1,5 @@
-^/sit/site-107(/.*)?$ pentagon_l1_tapfortune_client_SIT_path_be
-^/uat/site-107(/.*)?$ pentagon_l1_tapfortune_client_UAT_path_be
+^/sit/site-107(/.*)?$ pentagon_l1_tap_fortune_client_SIT_path_be
+^/uat/site-107(/.*)?$ pentagon_l1_tap_fortune_client_UAT_path_be
 ^/sit/site-instant-93(/.*)?$ pentagon_l1_instant_fb_coin_toss_client_SIT_path_be
 ^/uat/site-instant-93(/.*)?$ pentagon_l1_instant_fb_coin_toss_client_UAT_path_be
 ^/sit/game(/.*)?$ pentagon_l1_game_configuration_service_SIT_path_be
