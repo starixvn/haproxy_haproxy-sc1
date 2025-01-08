@@ -1,3 +1,4 @@
+^/coinmining(/.*)?$ pentagon_l1_coin_mining_service_LOCAL_1_path_be
 ^/site-107(/.*)?$ pentagon_l1_tap_fortune_client_LOCAL_1_path_be
 ^/site-104(/.*)?$ pentagon_l1_marble_football_client_LOCAL_1_path_be
 ^/game-client-29(/.*)?$ pentagon_l1_four_guardians_client_LOCAL_1_path_be
