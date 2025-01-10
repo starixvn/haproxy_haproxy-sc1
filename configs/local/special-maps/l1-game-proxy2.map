@@ -1,5 +1,5 @@
-^/coinmining(/.*)?$ pentagon_l1_coin_mining_service_LOCAL_2_path_be
 ^/direct-client-2(/.*)?$ pentagon_l1_direct_sedie_game_client_LOCAL_2_path_be
+^/coinmining(/.*)?$ pentagon_l1_coin_mining_service_LOCAL_2_path_be
 ^/tapfortune(/.*)?$ pentagon_l1_tap_fortune_service_LOCAL_2_path_be
 ^/site-107(/.*)?$ pentagon_l1_tap_fortune_client_LOCAL_2_path_be
 ^/site-104(/.*)?$ pentagon_l1_marble_football_client_LOCAL_2_path_be
