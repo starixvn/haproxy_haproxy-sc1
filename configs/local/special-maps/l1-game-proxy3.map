@@ -1,7 +1,7 @@
+^/site-107(/.*)?$ pentagon_l1_tap_fortune_client_LOCAL_3_path_be
 ^/marblepinball(/.*)?$ pentagon_l1_marblepinball_service_LOCAL_3_path_be
 ^/coinmining(/.*)?$ pentagon_l1_coin_mining_service_LOCAL_3_path_be
 ^/site-instant-93(/.*)?$ pentagon_l1_instant_fb_coin_toss_client_LOCAL_3_path_be
-^/site-107(/.*)?$ pentagon_l1_tap_fortune_client_LOCAL_3_path_be
 ^/game-client-29(/.*)?$ pentagon_l1_four_guardians_client_LOCAL_3_path_be
 ^/site-instant-103(/.*)?$ pentagon_l1_instant_seven_up_down_client_LOCAL_3_path_be
 ^/site-106(/.*)?$ pentagon_l1_christmas_crash_client_LOCAL_3_path_be
