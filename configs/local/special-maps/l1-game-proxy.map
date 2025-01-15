@@ -1,3 +1,4 @@
+^/gameperf(/.*)?$ pentagon_l1_admin_game_performance_LOCAL_path_be
 ^/coinmining(/.*)?$ pentagon_l1_coin_mining_service_LOCAL_path_be
 ^/livepagegateway(/.*)?$ pentagon_l1_live_page_gateway_LOCAL_path_be
 ^/game-client-103(/.*)?$ pentagon_l1_mini_seven_up_down_client_LOCAL_path_be
