@@ -1,3 +1,5 @@
+^/sit/direct-client-2(/.*)?$ pentagon_l1_direct_sedie_game_client_SIT_path_be
+^/uat/direct-client-2(/.*)?$ pentagon_l1_direct_sedie_game_client_UAT_path_be
 ^/sit/site-107(/.*)?$ pentagon_l1_tap_fortune_client_SIT_path_be
 ^/uat/site-107(/.*)?$ pentagon_l1_tap_fortune_client_UAT_path_be
 ^/sit/site-instant-93(/.*)?$ pentagon_l1_instant_fb_coin_toss_client_SIT_path_be
