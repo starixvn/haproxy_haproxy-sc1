@@ -1,3 +1,4 @@
+tlsv.lumigame.com pentagon_l1_tl_ai_server_LOCAL_be
 local3.game-client-simulator.lumigame.com pentagon_l1_game_client_simulator_LOCAL_3_be
 local2.game-client-simulator.lumigame.com pentagon_l1_game_client_simulator_LOCAL_2_be
 local1.game-client-simulator.lumigame.com pentagon_l1_game_client_simulator_LOCAL_1_be
@@ -31,7 +32,6 @@ l1-mongoexpress1.lumigame.com pentagon_l1_mongo_express_service_LOCAL_1_be
 game-client-template.lumigame.com pentagon_l1_game_client_template_LOCAL_be
 l1-connectapi3.lumigame.com pentagon_l1_sg_connect_api_LOCAL_3_be
 l1-connectapi2.lumigame.com pentagon_l1_sg_connect_api_LOCAL_2_be
-tlsv.lumigame.com pentagon_l1_tl_ai_server_LOCAL_be
 chatheo.lumigame.com pentagon_l1_tl_ai_LOCAL_be
 l1-appdownload3.lumigame.com pentagon_l1_app_download_site_client_LOCAL_3_be
 l1-appdownload2.lumigame.com pentagon_l1_app_download_site_client_LOCAL_2_be
