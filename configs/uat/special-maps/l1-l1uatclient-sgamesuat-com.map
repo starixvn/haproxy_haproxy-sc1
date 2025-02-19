@@ -1,3 +1,5 @@
+^/sit/site-109(/.*)?$ pentagon_l1_crypto_mining_client_SIT_path_be
+^/uat/site-109(/.*)?$ pentagon_l1_crypto_mining_client_UAT_path_be
 ^/sit/direct-client-26(/.*)?$ pentagon_l1_direct_vipfishprawncrab_client_SIT_path_be
 ^/uat/direct-client-26(/.*)?$ pentagon_l1_direct_vipfishprawncrab_client_UAT_path_be
 ^/sit/direct-client-2(/.*)?$ pentagon_l1_direct_sedie_game_client_SIT_path_be
