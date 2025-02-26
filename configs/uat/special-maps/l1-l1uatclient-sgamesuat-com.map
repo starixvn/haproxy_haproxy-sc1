@@ -1,3 +1,4 @@
+^/uat/direct-client-22(/.*)?$ pentagon_l1_direct_vip_sedie_game_client_UAT_path_be
 ^/uat/direct-client-67(/.*)?$ pentagon_l1_direct_dragon_tiger_fight_client_UAT_path_be
 ^/uat/direct-client-10(/.*)?$ pentagon_l1_direct_baccarat_game_client_UAT_path_be
 ^/sit/direct-client-67(/.*)?$ pentagon_l1_direct_dragon_tiger_fight_client_SIT_path_be
