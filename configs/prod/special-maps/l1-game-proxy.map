@@ -1,3 +1,4 @@
+^/rocketx(/.*)?$ pentagon_l1_rocketx_service_PROD_path_be
 ^/direct-client-113(/.*)?$ pentagon_l1_direct_rocketx_client_PROD_path_be
 ^/site-113(/.*)?$ pentagon_l1_rocketx_client_PROD_path_be
 ^/direct-client-22(/.*)?$ pentagon_l1_direct_vip_sedie_game_client_PROD_path_be
