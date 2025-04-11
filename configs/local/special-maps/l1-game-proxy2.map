@@ -1,3 +1,4 @@
+^/site-66(/.*)?$ pentagon_l1_candy_land_client_LOCAL_2_path_be
 ^/direct-client-113(/.*)?$ pentagon_l1_direct_rocketx_client_LOCAL_2_path_be
 ^/site-113(/.*)?$ pentagon_l1_rocketx_client_LOCAL_2_path_be
 ^/site-109(/.*)?$ pentagon_l1_crypto_mining_client_LOCAL_2_path_be
@@ -69,7 +70,6 @@
 ^/happyfishjackpot(/.*)?$ pentagon_l1_happy_fish_jackpot_service_LOCAL_2_path_be
 ^/game-client-111(/.*)?$ pentagon_l1_happy_fish_jackpot_client_LOCAL_2_path_be
 ^/rtpchecker(/.*)?$ pentagon_l1_rtp_checker_service_LOCAL_2_path_be
-^/game-client-66(/.*)?$ pentagon_l1_candy_land_client_LOCAL_2_path_be
 ^/game-client-69(/.*)?$ pentagon_l1_blackpink_client_LOCAL_2_path_be
 ^/blackpink(/.*)?$ pentagon_l1_blackpink_service_LOCAL_2_path_be
 ^/game-client-68(/.*)?$ pentagon_l1_mission_impossible_client_LOCAL_2_path_be
