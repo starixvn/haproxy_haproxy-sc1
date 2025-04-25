@@ -1,3 +1,4 @@
+^/direct-client-55(/.*)?$ pentagon_l1_direct_bigsmall_55_game_client_PROD_path_be
 ^/marblefootball2(/.*)?$ pentagon_l1_marblefootball2_service_PROD_path_be
 ^/site-114(/.*)?$ pentagon_l1_marble_football_2_client_PROD_path_be
 ^/godoffortune(/.*)?$ pentagon_l1_god_of_fortune_service_PROD_path_be
