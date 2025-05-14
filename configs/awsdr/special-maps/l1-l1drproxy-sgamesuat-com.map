@@ -1,3 +1,4 @@
+^/shared-resources(/.*)?$ pentagon_l1_shared_client_resources_AWSDR_path_be
 ^/minisedie(/.*)?$ pentagon_l1_sedie_multiplay_service_AWSDR_path_be
 ^/vsedie(/.*)?$ pentagon_l1_vip_sedie_service_AWSDR_path_be
 ^/sicbo(/.*)?$ pentagon_l1_sicbo_service_AWSDR_path_be
