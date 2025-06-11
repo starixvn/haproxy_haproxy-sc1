@@ -53,7 +53,6 @@
 ^/game-client-52/ l1_mega_keno_client_LOCAL_be
 ^/game-client-60/ l1_fantan_client_LOCAL_be
 ^/game-client-61/ l1_win_three_cards_client_LOCAL_be
-^/poc-game-client-2(/.*)?$ pentagon_l1_baccarat_client_test_LOCAL_path_be
 ^/poc-game-client-lobby(/.*)?$ pentagon_l1_lobby_test_LOCAL_path_be
 ^/site-82/ pentagon_l1_bac82_client_LOCAL_path_be
 ^/site-83/ pentagon_l1_bac83_client_LOCAL_path_be

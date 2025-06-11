@@ -1,3 +1,4 @@
+^/poc-game-client-2(/.*)?$ pentagon_l1_baccarat_client_test_LOCAL_path_be
 ^/aladdin(/.*)?$ pentagon_l1_aladdin_service_LOCAL_path_be
 ^/wukongsrevenge(/.*)?$ pentagon_l1_wukongs_revenge_service_LOCAL_path_be
 ^/admin-logs-api(/.*)?$ pentagon_l1_admin_logs_api_LOCAL_path_be
@@ -101,5 +102,4 @@
 ^/fortunecat/ l1_fortune_cat_service_LOCAL_be
 ^/winthreecards/ l1_win_three_cards_service_LOCAL_be
 ^/game-client-61/ l1_win_three_cards_client_LOCAL_be
-^/poc-game-client-2(/.*)?$ pentagon_l1_baccarat_client_test_LOCAL_path_be
 ^/poc-game-client-lobby(/.*)?$ pentagon_l1_lobby_test_LOCAL_path_be
