@@ -1,5 +1,5 @@
-^/poc-game-client-2(/.*)?$ pentagon_l1_baccarat_client_test_LOCAL_path_be
 ^/aladdin(/.*)?$ pentagon_l1_aladdin_service_LOCAL_path_be
+^/poc-game-client-2(/.*)?$ pentagon_l1_baccarat_client_test_LOCAL_path_be
 ^/wukongsrevenge(/.*)?$ pentagon_l1_wukongs_revenge_service_LOCAL_path_be
 ^/admin-logs-api(/.*)?$ pentagon_l1_admin_logs_api_LOCAL_path_be
 ^/admin-stmt-api(/.*)?$ pentagon_l1_admin_statement_api_LOCAL_path_be
