@@ -1,7 +1,7 @@
+^/happyfarm(/.*)?$ pentagon_l1_happy_farm_service_PROD_path_be
 ^/wildwestmostwanted(/.*)?$ pentagon_l1_wild_west_most_wanted_service_PROD_path_be
 ^/site-131(/.*)?$ pentagon_l1_happy_farm_client_PROD_path_be
 ^/site-129(/.*)?$ pentagon_l1_wild_west_most_wanted_client_PROD_path_be
-^/happyfarm(/.*)?$ pentagon_l1_happy_farm_service_PROD_path_be
 ^/rngsoccer(/.*)?$ pentagon_l1_rng_soccer_service_PROD_path_be
 ^/aladdinswishes(/.*)?$ pentagon_l1_aladdins_wishes_service_PROD_path_be
 ^/site-130(/.*)?$ pentagon_l1_aladdins_wishes_client_PROD_path_be
