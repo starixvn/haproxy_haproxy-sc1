@@ -1,5 +1,5 @@
 ^/site-129(/.*)?$ pentagon_l1_wild_west_most_wanted_client_KLPROD_path_be
-^/wildwestmostwanted/%09https://proxy.gamesaba.com/wildwestmostwanted(/.*)?$ pentagon_l1_wild_west_most_wanted_service_KLPROD_path_be
+^/wildwestmostwanted(/.*)?$ pentagon_l1_wild_west_most_wanted_service_KLPROD_path_be
 ^/happyfarm(/.*)?$ pentagon_l1_happy_farm_service_KLPROD_path_be
 ^/aladdinswishes(/.*)?$ pentagon_l1_aladdins_wishes_service_KLPROD_path_be
 ^/site-130(/.*)?$ pentagon_l1_aladdins_wishes_client_KLPROD_path_be
