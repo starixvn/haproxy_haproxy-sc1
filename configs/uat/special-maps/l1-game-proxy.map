@@ -1,3 +1,4 @@
+^/uat/vivafiesta(/.*)?$ pentagon_l1_viva_fiesta_service_UAT_path_be
 ^/sit/godoffortune(/.*)?$ pentagon_l1_god_of_fortune_service_SIT_path_be
 ^/uat/godoffortune(/.*)?$ pentagon_l1_god_of_fortune_service_UAT_path_be
 ^/sit/coinmining(/.*)?$ pentagon_l1_coin_mining_service_SIT_path_be
